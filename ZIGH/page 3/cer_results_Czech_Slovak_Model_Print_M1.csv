@@ -1,0 +1,4 @@
+Page,CER,Character Accuracy,WER,Word Accuracy,Bag of Tokens Precision,Bag of Tokens Recall,Bag of Tokens F-measure
+undefined,5.54%,91.49%,0.1972,69.47%,83.75%,80.98%,0.8234250221827862
+
+Average,5.54%,94.46%,0.1972,69.47,83.75,80.98,0.8234250221827862
