@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.38.0:model_id=42352:lm=none:date=20_01_2026_14:15</Creator>
+        <Created>2026-01-20T11:48:47.669+01:00</Created>
+        <LastChange>2026-01-20T14:15:22.203+01:00</LastChange>
+        <TranskribusMetadata docId="13771439" pageId="112425599" pageNr="3" tsid="272517080" status="IN_PROGRESS" userId="246057" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=ZODMVYNVRTGUHIHRFNGZNNNE" xmlUrl="https://files.transkribus.eu/Get?id=PWALIULJQAKHCDQPJFRRLRNJ" imageId="95011921"/>
+    </Metadata>
+    <Page imageFilename="0003_p003.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1769091121616" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="280,293 280,3276 2182,3276 2182,293"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="292,359 2158,362 2158,296 292,293"/>
+                <Baseline points="292,337 385,337 478,337 571,337 665,337 758,337 851,337 945,337 1038,337 1131,340 1225,338 1318,337 1411,340 1504,337 1598,337 1691,340 1784,337 1878,338 1971,340 2064,338 2158,340"/>
+                <TextEquiv>
+                    <Unicode>Dost dugo su se širili dva krivi datumi o niegovom rodjenju. Naš zaslužni prelat megr. Martin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="286,448 2116,451 2116,385 286,382"/>
+                <Baseline points="286,426 377,426 469,426 560,426 652,426 743,426 835,429 926,429 1018,431 1109,429 1201,427 1292,429 1384,427 1475,426 1567,428 1658,428 1750,427 1841,426 1933,428 2024,429 2116,429"/>
+                <TextEquiv>
+                    <Unicode>Meršíč ima u svojem izvrsnom djelu „Znameniti i zaslužni Gradiščanski Hrvati" (1972.) kao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="286,544 2098,544 2098,478 286,478"/>
+                <Baseline points="286,522 376,519 467,522 557,519 648,522 739,519 829,522 920,522 1010,522 1101,522 1192,520 1282,522 1373,521 1463,521 1554,519 1645,521 1735,522 1826,522 1916,522 2007,522 2098,522"/>
+                <TextEquiv>
+                    <Unicode>rodni datum 30. juli 1719. Na ti dan je u krsnoj kniigi velikoborištofske fare zapisan jedan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="283,634 2095,634 2095,568 283,568"/>
+                <Baseline points="283,612 373,612 464,612 554,615 645,612 736,615 826,612 917,615 1007,612 1098,613 1189,612 1279,612 1370,613 1460,615 1551,615 1642,615 1732,615 1823,615 1913,614 2004,615 2095,612"/>
+                <TextEquiv>
+                    <Unicode>lovre Bogovié, s krsnim imenom Lovre, ali P. Lovre krsno ime je bilo Jure. File Szedeniku</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="292,726 1898,726 1898,660 292,660"/>
+                <Baseline points="292,704 372,701 452,701 532,702 613,704 693,704 773,704 854,704 934,704 1014,704 1095,704 1175,704 1255,706 1335,704 1416,704 1496,704 1576,704 1657,704 1737,704 1817,704 1898,704"/>
+                <TextEquiv>
+                    <Unicode>svojem dielu Naši pisci i naša kniiževnost (1912.) kao i Szinnyei József u svojem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="289,818 2167,815 2167,752 289,755"/>
+                <Baseline points="289,797 382,797 476,795 570,797 664,794 758,797 852,798 946,800 1040,797 1134,797 1228,800 1321,797 1415,797 1509,797 1603,797 1697,799 1791,800 1885,800 1979,799 2073,797 2167,794"/>
+                <TextEquiv>
+                    <Unicode>monumentalnom dielu Magyar irók élete és munkáj u 14 sveski (1891.) imaju 1721. ljeto. Ali</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="289,904 2182,916 2182,853 2087,847 289,841"/>
+                <Baseline points="289,883 383,886 478,886 572,886 667,886 762,886 856,888 951,886 1046,889 1140,886 1235,889 1330,888 1424,889 1519,888 1614,889 1708,889 1803,889 1898,889 1992,889 2087,889 2182,895"/>
+                <TextEquiv>
+                    <Unicode>stopry pred 47 lieti (1978.) je P. Michael Weiss, franjevaci poviesničar Marijanske provinciie,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="289,1007 1749,1001 1749,935 289,941"/>
+                <Baseline points="289,985 362,976 435,978 508,979 581,979 654,981 727,980 800,980 873,979 946,979 1019,982 1092,981 1165,982 1238,979 1311,979 1384,979 1457,979 1530,979 1603,981 1676,979 1749,979"/>
+                <TextEquiv>
+                    <Unicode>javnosti iz originalníh izvorov posvidočio, da je krsno ime P. Lovre Jure.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="286,1122 1991,1125 1991,1061 286,1058"/>
+                <Baseline points="286,1101 371,1101 456,1101 541,1104 627,1106 712,1104 797,1105 882,1107 968,1107 1053,1107 1138,1107 1223,1104 1309,1107 1394,1107 1479,1106 1564,1106 1650,1105 1735,1107 1820,1107 1905,1104 1991,1104"/>
+                <TextEquiv>
+                    <Unicode>P. Lovre Bogovič se je rodio 22. marca 1723. u Velikom Borištofu (Cinki), a s 19 ljeti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="286,1218 2167,1215 2167,1151 286,1154"/>
+                <Baseline points="286,1197 380,1194 474,1194 568,1194 662,1194 756,1194 850,1194 944,1194 1038,1194 1132,1194 1226,1197 1320,1197 1414,1197 1508,1197 1602,1197 1696,1197 1790,1197 1884,1194 1978,1197 2072,1195 2167,1194"/>
+                <TextEquiv>
+                    <Unicode>(19.11. 1742.) stupi u red franjevcev u Svetoj Katarini, onda još u požonskom komitatu. Ljeto</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="286,1308 2009,1308 2009,1242 286,1242"/>
+                <Baseline points="286,1286 372,1286 458,1286 544,1286 630,1286 716,1286 802,1288 889,1289 975,1289 1061,1289 1147,1289 1233,1289 1319,1289 1405,1286 1492,1289 1578,1289 1664,1289 1750,1289 1836,1287 1922,1288 2009,1286"/>
+                <TextEquiv>
+                    <Unicode>dan kašnie (19.11.1743.) položi zagovor (profes) u redu je 3 ljeta kašnie zaredien za</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="286,1397 2173,1397 2173,1334 286,1334"/>
+                <Baseline points="286,1376 380,1376 474,1379 569,1379 663,1378 757,1379 852,1379 946,1381 1040,1379 1135,1382 1229,1379 1323,1379 1418,1379 1512,1379 1606,1379 1701,1379 1795,1379 1889,1379 1984,1379 2078,1379 2173,1376"/>
+                <TextEquiv>
+                    <Unicode>duhovnika. Kao spovidnik, prodikač, administrator hwvatske fare Sv. Mikule u Novom Gradui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="292,1489 2173,1492 2173,1429 292,1426"/>
+                <Baseline points="292,1468 386,1468 480,1468 574,1470 668,1469 762,1471 856,1469 950,1470 1044,1469 1138,1468 1232,1471 1326,1468 1420,1468 1514,1468 1608,1469 1702,1471 1796,1471 1890,1470 1984,1471 2078,1471 2173,1471"/>
+                <TextEquiv>
+                    <Unicode>kao ispomagatelj u različni fara je P. Lovre služio u kloštri u Novom Sradu Zelieznu na 8rigu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="295,1583 1982,1586 1982,1520 295,1517"/>
+                <Baseline points="295,1561 379,1558 463,1561 548,1561 632,1561 716,1561 801,1562 885,1564 969,1561 1054,1564 1138,1564 1222,1561 1307,1563 1391,1564 1475,1564 1560,1564 1644,1561 1728,1564 1813,1561 1897,1561 1982,1564"/>
+                <TextEquiv>
+                    <Unicode>Od Božiča 1788. do svoje smrti 12. januara 1789. je ispomagao kod cistercitovu St.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="295,1675 2063,1678 2063,1612 295,1609"/>
+                <Baseline points="295,1653 383,1650 471,1653 560,1653 648,1653 737,1653 825,1653 913,1653 1002,1652 1090,1655 1179,1654 1267,1653 1355,1655 1444,1656 1532,1654 1621,1656 1709,1656 1797,1656 1886,1653 1974,1656 2063,1656"/>
+                <TextEquiv>
+                    <Unicode>Gotthardu, kade je po kratkom i teškom betegu preminuo, a jedan dan kašnie je ondei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="292,1770 2104,1770 2104,1706 292,1706"/>
+                <Baseline points="292,1749 382,1746 473,1746 563,1746 654,1746 745,1746 835,1746 926,1746 1016,1746 1107,1746 1198,1746 1288,1746 1379,1746 1469,1746 1560,1746 1651,1746 1741,1748 1832,1746 1922,1747 2013,1749 2104,1749"/>
+                <TextEquiv>
+                    <Unicode>pokopan. P. Bogovič je preminuo u 66. ljetu svoje starosti, kako to točno piše u mrtvačkoj</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="295,1857 704,1860 704,1796 295,1793"/>
+                <Baseline points="295,1836 320,1836 346,1836 371,1836 397,1837 422,1839 448,1838 473,1836 499,1836 525,1836 550,1836 576,1836 601,1836 627,1836 652,1836 678,1838 704,1839"/>
+                <TextEquiv>
+                    <Unicode>kniigi St. Gottharda.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="286,1979 2143,1985 2143,1921 286,1915"/>
+                <Baseline points="286,1958 378,1961 471,1961 564,1961 657,1961 750,1964 843,1961 935,1961 1028,1961 1121,1961 1214,1961 1307,1964 1400,1964 1493,1964 1585,1964 1678,1961 1771,1961 1864,1961 1957,1964 2050,1962 2143,1964"/>
+                <TextEquiv>
+                    <Unicode>Prilikom 200. oblietnice niegove smrti (1989.) se je u niegovoj rodnoj fari održao simpozijo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="289,2075 2146,2075 2146,2011 289,2011"/>
+                <Baseline points="289,2054 381,2051 474,2051 567,2051 660,2053 753,2051 846,2054 938,2054 1031,2054 1124,2052 1217,2054 1310,2054 1403,2051 1496,2051 1588,2051 1681,2051 1774,2054 1867,2054 1960,2053 2053,2054 2146,2054"/>
+                <TextEquiv>
+                    <Unicode>P. Lovri, a tom prilikom je izašla brošura, a na starom farofu mu je otkrita i spomen-ploča.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="286,2161 2149,2167 2149,2103 286,2097"/>
+                <Baseline points="286,2140 379,2143 472,2143 565,2145 658,2143 751,2146 844,2143 938,2146 1031,2146 1124,2144 1217,2143 1310,2143 1403,2143 1496,2143 1590,2143 1683,2146 1776,2144 1869,2143 1962,2144 2055,2146 2149,2146"/>
+                <TextEquiv>
+                    <Unicode>Prilikom 300. rodjendana (18.3.2023.) se je u Velikom Borištofu održala spomen-priredbau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="286,2258 1364,2261 1364,2195 286,2192"/>
+                <Baseline points="286,2236 339,2236 393,2236 447,2236 501,2236 555,2236 609,2236 663,2236 717,2236 771,2236 825,2236 878,2238 932,2236 986,2236 1040,2236 1094,2236 1148,2239 1202,2238 1256,2238 1310,2236 1364,2239"/>
+                <TextEquiv>
+                    <Unicode>Kulturnoj zadrugi i sa svetom mašom u farskoj crikvi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="295,2383 2068,2386 2068,2320 295,2317"/>
+                <Baseline points="295,2361 383,2361 472,2361 560,2361 649,2361 738,2361 826,2361 915,2361 1004,2361 1092,2364 1181,2362 1270,2361 1358,2361 1447,2361 1536,2361 1624,2361 1713,2361 1802,2361 1890,2361 1979,2363 2068,2364"/>
+                <TextEquiv>
+                    <Unicode>O gradiščanskohwatskoj kniiževnosti zauzima P. Lovre Bogovié zlato mjesto s niegovim,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="292,2473 2170,2476 2170,2410 292,2407"/>
+                <Baseline points="292,2451 385,2451 479,2454 573,2454 667,2454 761,2454 855,2454 949,2454 1043,2454 1137,2454 1231,2451 1324,2454 1418,2454 1512,2454 1606,2454 1700,2454 1794,2454 1888,2454 1982,2454 2076,2457 2170,2454"/>
+                <TextEquiv>
+                    <Unicode>danas jur klasičnim molitvenikom ,„Hiža zlata" (1754.), ki je za vrime životaP. Lovre najmanje</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="286,2562 2080,2568 2080,2502 286,2496"/>
+                <Baseline points="286,2540 375,2543 465,2543 555,2543 644,2543 734,2543 824,2543 913,2543 1003,2543 1093,2543 1183,2546 1272,2543 1362,2543 1452,2546 1541,2543 1631,2543 1721,2546 1810,2546 1900,2546 1990,2543 2080,2546"/>
+                <TextEquiv>
+                    <Unicode>4 pute izdan, a po njegovoj smrit još 11 puti. Prisički farnik Jožef kickoju je pakod 1829.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="286,2657 2128,2654 2128,2590 286,2593"/>
+                <Baseline points="286,2636 378,2636 470,2636 562,2633 654,2639 746,2636 838,2636 930,2636 1022,2636 1114,2639 1207,2639 1299,2637 1391,2636 1483,2639 1575,2639 1667,2637 1759,2639 1851,2637 1943,2639 2035,2639 2128,2633"/>
+                <TextEquiv>
+                    <Unicode>izdavao pod, Nova hiža zlata" i „Novo hiža zlata", ka je pak u ukupno 17 izdanji izašla. Hliža</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="286,2746 2113,2749 2113,2685 286,2682"/>
+                <Baseline points="286,2725 377,2725 468,2725 560,2728 651,2725 742,2728 834,2726 925,2728 1016,2725 1108,2728 1199,2728 1290,2727 1382,2728 1473,2728 1564,2725 1656,2728 1747,2727 1838,2728 1930,2728 2021,2727 2113,2728"/>
+                <TextEquiv>
+                    <Unicode>zlata je uopče do sada poznata kao 9. kniiga za Gradiščanske Hwvate izdata do 1754. ljeta.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="286,2873 2045,2876 2045,2810 286,2807"/>
+                <Baseline points="286,2851 378,2851 471,2851 563,2852 656,2852 748,2851 841,2854 934,2854 1026,2854 1119,2854 1211,2852 1304,2853 1396,2854 1489,2851 1582,2854 1674,2854 1767,2854 1859,2854 1952,2854 2045,2854"/>
+                <TextEquiv>
+                    <Unicode>Naslov najpopulamijega najpoznatijega molitvenika med Gradiščanskimi Hwvati glasi:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="429,2998 2143,2998 2143,2932 429,2932"/>
+                <Baseline points="429,2976 514,2979 600,2976 686,2976 771,2976 857,2976 943,2976 1028,2976 1114,2976 1200,2976 1286,2976 1371,2979 1457,2976 1543,2979 1628,2976 1714,2976 1800,2978 1885,2976 1971,2978 2057,2976 2143,2976"/>
+                <TextEquiv>
+                    <Unicode>HlSA ZLATA/ZMARUVVÍM TRODOM, VZVEIÍKUM SZKERSUVUM OZDANA, /PR19z.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="286,3091 2179,3094 2179,3028 286,3025"/>
+                <Baseline points="286,3069 380,3069 475,3068 569,3069 664,3069 759,3069 853,3069 948,3069 1043,3069 1137,3066 1232,3069 1327,3069 1421,3070 1516,3072 1611,3072 1705,3069 1800,3072 1895,3069 1989,3069 2084,3072 2179,3072"/>
+                <TextEquiv>
+                    <Unicode>BROU KAUVARK /OD/P. LAURENCŽUSSA BOSOVCA/Maranfzke Prov Réda 5z kerencza/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_30" custom="readingOrder {index:29;}">
+                <Coords points="280,3180 2164,3183 2164,3117 280,3114"/>
+                <Baseline points="280,3158 374,3158 468,3161 562,3161 656,3161 751,3161 845,3161 939,3161 1033,3160 1127,3161 1222,3161 1316,3161 1410,3161 1504,3161 1598,3161 1693,3161 1787,3161 1881,3161 1975,3161 2069,3161 2164,3161"/>
+                <TextEquiv>
+                    <Unicode>Szerafinszkoga Nedil. Howat. Prod. /BLASENO /DVCZ MAR! /SEIÍZANSZKO /Offrovana,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_31" custom="readingOrder {index:30;}">
+                <Coords points="289,3276 2176,3276 2176,3210 289,3210"/>
+                <Baseline points="289,3254 383,3251 477,3251 572,3251 666,3251 760,3251 855,3251 949,3253 1043,3254 1138,3254 1232,3254 1326,3254 1421,3254 1515,3254 1609,3254 1704,3254 1798,3254 1892,3254 1987,3254 2081,3254 2176,3254"/>
+                <TextEquiv>
+                    <Unicode>ter /Sz. OfCZU SZERAFNSZKOMU /Preporučsena, /Za obatrenye pobósnoja howvatczkoja/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

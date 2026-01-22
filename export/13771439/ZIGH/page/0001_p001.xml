@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.38.0:model_id=42352:lm=none:date=20_01_2026_12:54</Creator>
+        <Created>2026-01-20T11:48:47.390+01:00</Created>
+        <LastChange>2026-01-20T12:54:47.113+01:00</LastChange>
+        <TranskribusMetadata docId="13771439" pageId="112425598" pageNr="1" tsid="272497568" status="IN_PROGRESS" userId="246057" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=LMOTPVASZRUCKHMHJOEHHDHM" xmlUrl="https://files.transkribus.eu/Get?id=LFGIKKMPOATEYLRANOHILSNV" imageId="95011920"/>
+    </Metadata>
+    <Page imageFilename="0001_p001.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1769091121517" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="286,291 286,3109 2191,3109 2191,291"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="752,360 1728,363 1728,294 752,291"/>
+                <Baseline points="752,337 800,340 849,340 898,339 947,338 996,339 1044,337 1093,337 1142,337 1191,337 1240,340 1288,340 1337,340 1386,337 1435,338 1484,340 1532,340 1581,340 1630,340 1679,340 1728,340"/>
+                <TextEquiv>
+                    <Unicode>Gradiščanskohrvatski franjevci - za svoj narod</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="286,556 2110,559 2110,493 286,490"/>
+                <Baseline points="286,534 377,534 468,537 559,534 650,534 742,534 833,534 924,533 1015,534 1106,535 1198,537 1289,540 1380,539 1471,537 1562,535 1654,537 1745,539 1836,537 1927,537 2018,537 2110,537"/>
+                <TextEquiv>
+                    <Unicode>Pred dvimi lieti su franjevci svečevali 800 ljet, da je papa Honorije "l. 1223. aprobirao red</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="286,648 2179,654 2179,588 286,582"/>
+                <Baseline points="286,626 380,626 475,626 569,628 664,623 759,625 853,626 948,627 1043,626 1137,626 1232,626 1327,626 1421,628 1516,626 1611,626 1705,627 1800,629 1895,629 1989,629 2084,629 2179,632"/>
+                <TextEquiv>
+                    <Unicode>franjevcev, jako je světi Franjo Asiški júr 14 liet prije (1209.) počeo oko sobe sakupliati muže,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="289,741 1418,741 1418,674 289,674"/>
+                <Baseline points="289,719 345,716 401,716 458,718 514,719 571,719 627,719 684,719 740,719 797,719 853,719 909,719 966,719 1022,720 1079,722 1135,722 1192,722 1248,721 1305,719 1361,719 1418,719"/>
+                <TextEquiv>
+                    <Unicode>ki se osobito posvečuju Kristušu i ga nasliediuju u redu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="286,866 2164,863 2164,796 286,799"/>
+                <Baseline points="286,844 379,841 473,842 567,844 661,844 755,841 849,844 943,844 1037,847 1131,844 1225,847 1318,844 1412,847 1506,846 1600,846 1694,844 1788,846 1882,845 1976,846 2070,847 2164,841"/>
+                <TextEquiv>
+                    <Unicode>Na područiu Ogarske se je jur 16 ljet kašnie (1239.) osnovala pwva franjevačka provincija kao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="286,963 2191,957 2191,896 286,902"/>
+                <Baseline points="286,943 381,933 476,935 571,936 667,937 762,937 857,937 952,938 1048,937 1143,939 1238,938 1333,937 1429,937 1524,940 1619,937 1714,937 1810,937 1905,937 2000,937 2095,937 2191,937"/>
+                <TextEquiv>
+                    <Unicode>„Provincia Hungariae", kašnie zvana Marijanska provincija, ka je postojala do 2006. ljeta je u</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="289,1047 2113,1050 2113,989 2021,984 289,986"/>
+                <Baseline points="289,1027 380,1024 471,1024 562,1027 653,1027 745,1027 836,1028 927,1027 1018,1027 1109,1030 1201,1027 1292,1027 1383,1027 1474,1027 1565,1027 1657,1029 1748,1028 1839,1027 1930,1027 2021,1025 2113,1030"/>
+                <TextEquiv>
+                    <Unicode>tom ljetu složena s Kapistranskom provincijom u novu provinciju „Ogarske Velike Gospe".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="289,1141 2161,1144 2161,1077 289,1074"/>
+                <Baseline points="289,1119 382,1119 476,1119 569,1121 663,1119 757,1120 850,1119 944,1122 1037,1119 1131,1122 1225,1119 1318,1122 1412,1122 1505,1122 1599,1122 1693,1121 1786,1122 1880,1119 1973,1122 2067,1122 2161,1122"/>
+                <TextEquiv>
+                    <Unicode>Kašnje su pak na prostoru Ogarske još osnovane Salvatorijanska Kapistranska i provincija sv.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="292,1233 2152,1236 2152,1173 292,1170"/>
+                <Baseline points="292,1212 385,1212 478,1212 571,1212 664,1213 757,1212 850,1214 943,1212 1036,1212 1129,1212 1222,1212 1315,1212 1408,1215 1501,1215 1594,1215 1687,1215 1780,1212 1873,1212 1966,1212 2059,1215 2152,1215"/>
+                <TextEquiv>
+                    <Unicode>Ladislava, ka je sada provincija Cirilsko-Metodska. uove tri zadnje imenovane provincije je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="286,1322 2164,1325 2164,1262 286,1259"/>
+                <Baseline points="286,1301 379,1301 473,1300 567,1299 661,1300 755,1301 849,1301 943,1301 1037,1301 1131,1301 1225,1301 1318,1304 1412,1301 1506,1301 1600,1301 1694,1304 1788,1304 1882,1304 1976,1301 2070,1304 2164,1304"/>
+                <TextEquiv>
+                    <Unicode>stupilo Gradiščanskohwvatskih franjevcev, ali ne daleko toliko kao u Marijansku provinciiu. P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="292,1416 1946,1416 1946,1350 292,1350"/>
+                <Baseline points="292,1394 374,1394 457,1392 540,1394 622,1394 705,1394 788,1394 870,1394 953,1394 1036,1394 1119,1397 1201,1394 1284,1397 1367,1394 1449,1394 1532,1394 1615,1395 1697,1394 1780,1395 1863,1397 1946,1394"/>
+                <TextEquiv>
+                    <Unicode>ladislav Spaič, rodom iz Hrvatske Nadalje, je dostignuo i čast i službu provinciiala</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="286,1505 785,1508 785,1442 286,1439"/>
+                <Baseline points="286,1483 312,1483 338,1483 364,1483 391,1483 417,1483 443,1483 469,1483 496,1483 522,1483 548,1483 574,1483 601,1483 627,1483 653,1483 679,1483 706,1484 732,1486 758,1486 785,1486"/>
+                <TextEquiv>
+                    <Unicode>Kapistranske provincije.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="292,1631 2161,1631 2161,1565 292,1565"/>
+                <Baseline points="292,1609 385,1609 478,1609 572,1609 665,1609 759,1609 852,1610 946,1611 1039,1612 1133,1612 1226,1609 1319,1609 1413,1612 1506,1612 1600,1612 1693,1610 1787,1612 1880,1612 1974,1612 2067,1612 2161,1609"/>
+                <TextEquiv>
+                    <Unicode>Na područiu današnjega Gradišča, to je bila do 1939. Marijanska provincija, dieluju franjevci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="292,1723 2158,1723 2158,1657 292,1657"/>
+                <Baseline points="292,1701 385,1701 478,1698 571,1699 665,1703 758,1701 851,1701 945,1701 1038,1701 1131,1701 1225,1704 1318,1701 1411,1704 1504,1701 1598,1701 1691,1701 1784,1702 1878,1702 1971,1702 2064,1704 2158,1701"/>
+                <TextEquiv>
+                    <Unicode>u kloštri u Zelieznu, Novom Sradu i u Svetici za jezerom. O Zeljeznu su postojali i dva kloštri:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="289,1813 2086,1813 2086,1747 289,1747"/>
+                <Baseline points="289,1791 378,1791 468,1794 558,1794 648,1794 738,1794 828,1791 917,1794 1007,1794 1097,1794 1187,1794 1277,1794 1367,1791 1457,1794 1546,1794 1636,1794 1726,1794 1816,1794 1906,1797 1996,1794 2086,1791"/>
+                <TextEquiv>
+                    <Unicode>Na Brigu, sada Stan susretov, ustanovlien od kneza Pavla koterházyja 1711., a raspuščan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="289,1905 2009,1902 2009,1836 289,1839"/>
+                <Baseline points="289,1883 375,1883 461,1883 547,1881 633,1883 719,1881 805,1883 891,1883 977,1886 1063,1883 1149,1885 1235,1885 1321,1886 1407,1886 1493,1886 1579,1886 1665,1886 1751,1886 1837,1883 1923,1883 2009,1880"/>
+                <TextEquiv>
+                    <Unicode>1787 od cesara Jožefa U. U Zelieznu-Varošu, uz franjevačku crikvu, je 1386. osnovao</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="286,1995 1988,1995 1988,1928 286,1928"/>
+                <Baseline points="286,1973 371,1976 456,1976 541,1975 626,1976 711,1979 796,1976 881,1979 966,1976 1051,1979 1137,1976 1222,1976 1307,1979 1392,1979 1477,1978 1562,1976 1647,1976 1732,1977 1817,1977 1902,1976 1988,1973"/>
+                <TextEquiv>
+                    <Unicode>nadbiškup wan Kanizsai kloštar, u kom su do pred nekolikimi ljeti djelovali franjevci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="295,2087 2057,2090 2057,2023 295,2020"/>
+                <Baseline points="295,2065 383,2065 471,2065 559,2065 647,2068 735,2068 823,2068 911,2067 999,2067 1087,2065 1176,2065 1264,2065 1352,2068 1440,2068 1528,2067 1616,2067 1704,2068 1792,2068 1880,2068 1968,2068 2057,2068"/>
+                <TextEquiv>
+                    <Unicode>Austrijanske provincije (do 2018.). Kloštaru Novom Gradu je osnovao 1638. grof Adam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="292,2177 2051,2186 2051,2120 292,2111"/>
+                <Baseline points="292,2155 384,2158 477,2158 569,2158 662,2159 754,2160 847,2159 940,2160 1032,2160 1125,2161 1217,2161 1310,2161 1402,2160 1495,2158 1588,2161 1680,2161 1773,2161 1865,2161 1958,2162 2051,2164"/>
+                <TextEquiv>
+                    <Unicode>Batthyány, a kloštar u Světici za jezerom 1659. knezPavao Esterházy. (u Ojuri, Požonu,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="286,2273 1453,2273 1453,2207 286,2207"/>
+                <Baseline points="286,2251 344,2251 402,2251 461,2251 519,2248 577,2249 636,2251 694,2251 752,2251 811,2251 869,2251 927,2251 986,2253 1044,2254 1102,2253 1161,2251 1219,2251 1277,2254 1336,2254 1394,2254 1453,2251"/>
+                <TextEquiv>
+                    <Unicode>Sambotelju u Sopronu su ili još i danas dieluju franjevci.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="286,2395 2152,2398 2152,2331 286,2328"/>
+                <Baseline points="286,2373 379,2373 472,2373 565,2376 659,2376 752,2376 845,2376 939,2376 1032,2376 1125,2378 1219,2379 1312,2379 1405,2379 1498,2379 1592,2376 1685,2376 1778,2379 1872,2378 1965,2379 2058,2377 2152,2376"/>
+                <TextEquiv>
+                    <Unicode>Ujur spomenutu i najstarju franjevačku, Marijansku provinciju, nam je do sada poznato, da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="292,2491 2176,2488 2176,2422 292,2425"/>
+                <Baseline points="292,2469 386,2466 480,2466 574,2467 668,2467 763,2467 857,2469 951,2469 1045,2469 1139,2469 1234,2469 1328,2469 1422,2469 1516,2469 1610,2469 1705,2467 1799,2469 1893,2469 1987,2469 2081,2469 2176,2466"/>
+                <TextEquiv>
+                    <Unicode>je ukupno oko 320 Gradiščanskih Hwvatov stupilo u franjevački red i još prik 50 laičnih bratov</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="295,2583 1892,2580 1892,2514 295,2517"/>
+                <Baseline points="295,2561 374,2558 454,2558 534,2558 614,2558 694,2558 774,2558 853,2559 933,2561 1013,2561 1093,2561 1173,2561 1253,2561 1333,2561 1412,2558 1492,2558 1572,2558 1652,2555 1732,2558 1812,2558 1892,2558"/>
+                <TextEquiv>
+                    <Unicode>(med niimi i kr. Sebastian Vajkovič, rodom i Trajštofa, 1815. — 1879. Vesprim).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="286,2705 2152,2705 2152,2638 286,2638"/>
+                <Baseline points="286,2683 379,2683 472,2683 565,2683 659,2684 752,2683 845,2686 939,2686 1032,2683 1125,2685 1219,2684 1312,2686 1405,2683 1498,2686 1592,2686 1685,2686 1778,2685 1872,2686 1965,2686 2058,2683 2152,2683"/>
+                <TextEquiv>
+                    <Unicode>Franjevci su vršili svoju službu kao spovidnikí, prodikači, narodni misionari, administratoriu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="289,2798 2176,2804 2176,2738 289,2732"/>
+                <Baseline points="289,2776 383,2776 477,2776 572,2776 666,2776 760,2776 855,2776 949,2776 1043,2779 1138,2776 1232,2776 1326,2776 1421,2776 1515,2778 1609,2776 1704,2776 1798,2776 1892,2778 1987,2779 2081,2779 2176,2782"/>
+                <TextEquiv>
+                    <Unicode>oni fara, kade trenutno nije bilo farnika ili kao farniki. danas peljajú faru Sveticu za jezerom,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="286,2888 1310,2891 1310,2825 286,2822"/>
+                <Baseline points="286,2866 337,2866 388,2866 439,2867 490,2869 542,2869 593,2866 644,2866 695,2869 746,2869 798,2869 849,2869 900,2869 951,2869 1002,2869 1054,2866 1105,2867 1156,2869 1207,2867 1258,2868 1310,2869"/>
+                <TextEquiv>
+                    <Unicode>a odavle su do 1768. opskrbljavali i faru Halbtum.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="286,3010 2098,3010 2098,2943 286,2943"/>
+                <Baseline points="286,2988 376,2991 467,2994 557,2994 648,2991 739,2994 829,2991 920,2991 1010,2994 1101,2994 1192,2994 1282,2994 1373,2994 1463,2994 1554,2994 1645,2992 1735,2994 1826,2994 1916,2994 2007,2993 2098,2988"/>
+                <TextEquiv>
+                    <Unicode>U Zelieznu na Brigu su na prepoštskoj fari vršili franjevci službu kapelanov, a i u Zelieznu¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="289,3103 943,3109 943,3042 289,3036"/>
+                <Baseline points="289,3081 321,3083 354,3084 387,3084 419,3084 452,3086 485,3087 517,3087 550,3087 583,3087 616,3087 648,3087 681,3085 714,3084 746,3085 779,3087 812,3087 844,3087 877,3087 910,3084 943,3087"/>
+                <TextEquiv>
+                    <Unicode>Varošu nisu imali posebnu faru.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

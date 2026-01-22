@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=TrHtr:version=2.38.0:model_id=51170:date=22_01_2026_13:45</Creator>
+        <Created>2025-12-05T15:17:01.994486</Created>
+        <LastChange>2026-01-22T13:45:36.920+01:00</LastChange>
+        <TranskribusMetadata docId="12715615" pageId="107683788" pageNr="3" tsid="272822424" status="IN_PROGRESS" userId="246057" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=NBSBYJVZAYCCRKDYEKPJCYTE" xmlUrl="https://files.transkribus.eu/Get?id=MTMFATLMTSXANVGLWIKXTYYF" imageId="90501609"/>
+    </Metadata>
+    <Page imageFilename="0003_p007.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1769091081592" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1764944232"/>
+                <RegionRefIndexed index="1" regionRef="tr_1764944235"/>
+                <RegionRefIndexed index="2" regionRef="tr_1764944237"/>
+                <RegionRefIndexed index="3" regionRef="tr_1764944233"/>
+                <RegionRefIndexed index="4" regionRef="tr_1764944231"/>
+                <RegionRefIndexed index="5" regionRef="tr_1764944229"/>
+                <RegionRefIndexed index="6" regionRef="tr_1764944238"/>
+                <RegionRefIndexed index="7" regionRef="tr_1764944240"/>
+                <RegionRefIndexed index="8" regionRef="tr_1764944241"/>
+                <RegionRefIndexed index="9" regionRef="tr_1764944236"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1764944232" custom="readingOrder {index:0;}">
+            <Coords points="954,141 1528,141 1528,194 954,194"/>
+            <TextLine id="tr_1764944232_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="934,179 959,195 1235,184 1272,205 1528,195 1528,131 1090,141 1058,124 1032,144 934,141"/>
+                <Baseline points="943,179 988,182 1032,182 1077,179 1122,179 1167,179 1212,179 1256,179 1301,179 1346,179 1391,182 1436,179 1480,179 1525,179 1531,179"/>
+                <TextEquiv>
+                    <Unicode>drustvene dielatnosti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764944235" custom="readingOrder {index:1;}">
+            <Coords points="148,219 579,219 579,270 148,270"/>
+            <TextLine id="tr_1764944235_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="126,281 572,279 572,202 126,202"/>
+                <Baseline points="134,262 173,259 217,256 262,256 307,259 352,259 397,259 441,259 486,256 531,253 576,256"/>
+                <TextEquiv>
+                    <Unicode>DECEMBAR 2020</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764944237" custom="readingOrder {index:2;}">
+            <Coords points="2098,224 2330,224 2330,269 2098,269"/>
+            <TextLine id="tr_1764944237_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2085,279 2335,278 2332,202 2259,198 2241,205 2219,198 2201,208 2188,198 2181,205 2128,198 2109,208 2082,200"/>
+                <Baseline points="2095,259 2140,259 2185,262 2230,262 2274,265 2319,268 2340,265"/>
+                <TextEquiv>
+                    <Unicode>7.STRAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764944233" custom="readingOrder {index:3;}">
+            <Coords points="580,359 1894,359 1894,451 580,451"/>
+            <TextLine id="tr_1764944233_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="571,440 1897,443 1897,365 1799,352 571,356"/>
+                <Baseline points="579,426 623,429 668,429 713,432 758,429 803,429 847,429 892,429 937,429 982,429 1027,429 1071,429 1116,426 1161,426 1206,426 1250,429 1295,429 1340,429 1385,429 1430,429 1474,426 1519,429 1564,429 1609,429 1653,426 1698,429 1743,429 1788,429 1833,429 1877,429 1901,429"/>
+                <TextEquiv>
+                    <Unicode>Digitalni adventski kalendar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764944231" custom="readingOrder {index:4;}">
+            <Coords points="140,1255 1221,1255 1221,1525 140,1525"/>
+            <TextLine id="tr_1764944231_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="127,1300 1214,1300 1214,1257 1123,1252 127,1252"/>
+                <Baseline points="137,1292 182,1289 226,1289 271,1289 316,1289 361,1289 406,1289 450,1286 495,1289 540,1289 585,1289 629,1289 674,1289 719,1289 764,1289 809,1289 853,1289 898,1289 943,1289 988,1289 1032,1289 1077,1289 1122,1289 1167,1289 1212,1289 1218,1292"/>
+                <TextEquiv>
+                    <Unicode>Koliko puti smo se svi pitali kako cémo ljetos prebaviti advenat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944231_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="131,1353 1212,1354 1212,1315 131,1315"/>
+                <Baseline points="140,1343 185,1343 229,1343 274,1343 319,1343 364,1343 409,1343 453,1343 498,1343 543,1343 588,1343 632,1343 677,1343 722,1343 767,1346 812,1343 856,1343 901,1343 946,1343 991,1343 1035,1343 1080,1343 1125,1343 1170,1343 1215,1346 1218,1343"/>
+                <TextEquiv>
+                    <Unicode>bez da se strefimo s našimi prijatelji na zakipljeno vino i bez lipib</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944231_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="122,1407 1214,1412 1214,1378 174,1356 122,1387"/>
+                <Baseline points="131,1400 176,1397 220,1397 265,1397 310,1397 355,1397 400,1397 444,1397 489,1394 534,1397 579,1397 623,1397 668,1397 713,1397 758,1397 803,1397 847,1397 892,1400 937,1397 982,1397 1027,1400 1071,1397 1116,1397 1161,1397 1206,1397 1218,1400"/>
+                <TextEquiv>
+                    <Unicode>adventskih koncertov? Jos veé nas i trapi pitanje, kako moremc</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944231_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="127,1469 1211,1467 1211,1424 1153,1417 127,1414"/>
+                <Baseline points="137,1453 140,1453 185,1453 229,1450 274,1450 319,1450 364,1450 409,1450 453,1450 498,1450 543,1450 588,1453 632,1450 677,1450 722,1450 767,1450 812,1453 856,1450 901,1453 946,1453 991,1450 1035,1450 1080,1450 1125,1450 1170,1450 1215,1450"/>
+                <TextEquiv>
+                    <Unicode>ljetos svecevati Božić za vrime ove epidemije. Moremo viditi na¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944231_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="131,1516 1199,1516 1186,1473 131,1480"/>
+                <Baseline points="140,1504 185,1504 229,1504 274,1504 319,1504 364,1504 409,1504 453,1504 498,1504 543,1504 588,1504 632,1504 677,1504 722,1504 767,1504 812,1507 856,1507 901,1507 946,1507 991,1507 1035,1507 1080,1507 1125,1504 1170,1507 1203,1510"/>
+                <TextEquiv>
+                    <Unicode>&amp;u rodbinu? Moremo svečevati Božić s našimi naidražimi ljudi.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764944229" custom="readingOrder {index:5;}">
+            <Coords points="139,1562 1221,1562 1221,1933 139,1933"/>
+            <TextLine id="tr_1764944229_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="127,1598 1214,1602 1214,1566 1025,1556 127,1568"/>
+                <Baseline points="137,1594 143,1594 188,1591 232,1591 277,1591 322,1594 367,1591 412,1591 456,1591 501,1594 546,1591 591,1594 635,1594 680,1591 725,1591 770,1594 815,1591 859,1591 904,1594 949,1594 994,1594 1038,1594 1083,1594 1128,1594 1173,1594 1218,1591"/>
+                <TextEquiv>
+                    <Unicode>Ova sva pitania pokazuju kako je teska ova korona kriza za sve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944229_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="134,1657 1211,1660 1211,1626 1164,1616 134,1622"/>
+                <Baseline points="143,1648 185,1648 229,1648 274,1648 319,1648 364,1648 409,1648 453,1648 498,1648 543,1648 588,1648 632,1648 677,1648 722,1648 767,1648 812,1648 856,1648 901,1648 946,1648 991,1645 1035,1648 1080,1648 1125,1648 1170,1648 1215,1645"/>
+                <TextEquiv>
+                    <Unicode>nas i mi se svi moramo odreci puno svega pazimo jedan na dru¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944229_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="127,1722 1214,1715 1164,1664 127,1685"/>
+                <Baseline points="137,1704 143,1704 188,1701 232,1701 277,1701 322,1701 367,1701 412,1701 456,1701 501,1701 546,1701 591,1701 635,1701 680,1701 725,1701 770,1701 815,1701 859,1701 904,1701 949,1701 994,1701 1038,1701 1083,1701 1128,1701 1173,1701 1218,1701"/>
+                <TextEquiv>
+                    <Unicode>goga. Ali ova kpidemija nudja i Sanse za svakoga pojedinoga i z.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944229_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="127,1771 1217,1770 1201,1723 127,1733"/>
+                <Baseline points="137,1758 146,1758 191,1755 235,1755 280,1755 325,1755 370,1755 414,1755 459,1755 504,1755 549,1755 594,1755 638,1755 683,1755 728,1755 773,1755 818,1755 862,1755 907,1755 952,1758 997,1758 1041,1755 1086,1755 1131,1755 1176,1758 1221,1755"/>
+                <TextEquiv>
+                    <Unicode>naša drustva. Moremo reflektirati, ça dobro djelamo ali i kade</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944229_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="131,1819 1217,1821 1217,1783 131,1786"/>
+                <Baseline points="140,1812 146,1812 191,1812 235,1812 280,1812 325,1812 370,1809 414,1809 459,1812 504,1809 549,1809 594,1809 638,1812 683,1809 728,1809 773,1809 818,1812 862,1812 907,1809 952,1809 997,1812 1041,1809 1086,1809 1131,1812 1176,1812 1221,1809"/>
+                <TextEquiv>
+                    <Unicode>nam manjka. I vidili smo, da na gradišcansko-hryatskom imamo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944229_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="127,1875 1214,1875 1182,1832 127,1839"/>
+                <Baseline points="137,1865 143,1865 188,1865 232,1862 277,1865 322,1862 367,1865 412,1862 456,1862 501,1862 546,1862 591,1862 635,1862 680,1862 725,1865 770,1865 815,1862 859,1862 904,1865 949,1862 994,1862 1038,1862 1083,1862 1128,1862 1173,1865 1218,1862"/>
+                <TextEquiv>
+                    <Unicode>malo materijala u internetu i da znamda i zato ne moremo take</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944229_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="131,1928 652,1932 652,1900 595,1880 519,1899 430,1899 412,1880 382,1900 322,1880 301,1899 268,1880 246,1899 207,1899 187,1879 131,1892"/>
+                <Baseline points="140,1916 185,1916 229,1916 274,1916 319,1916 364,1919 409,1916 453,1916 498,1916 543,1919 588,1919 632,1919 656,1916"/>
+                <TextEquiv>
+                    <Unicode>dobro dos tignuti nasu mladinu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764944238" custom="readingOrder {index:6;}">
+            <Coords points="138,1996 1213,1996 1213,2158 138,2158"/>
+            <TextLine id="tr_1764944238_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="137,2037 1211,2036 1211,1996 1108,1981 137,1975"/>
+                <Baseline points="146,2027 185,2027 229,2024 274,2027 319,2024 364,2027 409,2024 453,2027 498,2024 543,2027 588,2027 632,2024 677,2027 722,2027 767,2027 812,2027 856,2027 901,2027 946,2027 991,2027 1035,2027 1080,2024 1125,2027 1170,2024 1215,2024"/>
+                <TextEquiv>
+                    <Unicode>Tako je i ova ideja digitalnoga adventskoga kalendara veliki do¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944238_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="131,2090 1212,2092 1168,2051 131,2047"/>
+                <Baseline points="140,2080 185,2080 229,2080 274,2080 319,2080 364,2080 409,2080 453,2080 498,2080 543,2080 588,2080 632,2080 677,2080 722,2080 767,2080 812,2080 856,2080 901,2080 946,2080 991,2080 1035,2080 1080,2080 1125,2077 1170,2077 1215,2080"/>
+                <TextEquiv>
+                    <Unicode>bitak korona krize. Oyim digitalnim kalendarom moremo dos</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944238_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="131,2142 1207,2148 1168,2104 131,2107"/>
+                <Baseline points="140,2137 182,2137 226,2137 271,2137 316,2137 361,2137 406,2137 450,2137 495,2134 540,2134 585,2134 629,2137 674,2134 719,2134 764,2134 809,2137 853,2134 898,2134 943,2137 988,2134 1032,2134 1077,2134 1122,2134 1167,2134 1212,2131"/>
+                <TextEquiv>
+                    <Unicode>tignuti dicu, mlade Ijude i starije, ki kanu slušati gradiséanske</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764944240" custom="readingOrder {index:7;}">
+            <Coords points="1250,1839 2342,1839 2342,2464 1250,2464"/>
+            <TextLine id="tr_1764944240_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1250,1884 2340,1890 2319,1834 1250,1846"/>
+                <Baseline points="1259,1874 1304,1874 1349,1874 1394,1874 1439,1874 1483,1871 1528,1874 1573,1874 1618,1874 1662,1874 1707,1874 1752,1874 1797,1874 1842,1874 1886,1871 1931,1874 1976,1874 2021,1874 2065,1874 2110,1871 2155,1874 2200,1874 2245,1874 2289,1874 2334,1877 2343,1877"/>
+                <TextEquiv>
+                    <Unicode>hrvatsku rię. Ovin putem moremo ljude s lipimi povidajkami,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944240_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1255,1948 2320,1938 2289,1899 1255,1903"/>
+                <Baseline points="1265,1937 1295,1931 1340,1928 1385,1928 1430,1928 1474,1928 1519,1928 1564,1928 1609,1928 1653,1928 1698,1928 1743,1928 1788,1928 1833,1928 1877,1928 1922,1928 1967,1928 2012,1928 2057,1928 2101,1928 2146,1928 2191,1928 2236,1928 2280,1928 2325,1931"/>
+                <TextEquiv>
+                    <Unicode>pjesmami i recepti razveseliti u ovi teški ěasi i Siriti božićni ca</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944240_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1254,2027 2335,2027 2315,1981 1254,1981"/>
+                <Baseline points="1262,2018 1307,2015 1352,2015 1397,2015 1442,2015 1486,2015 1531,2015 1576,2015 1621,2015 1665,2015 1710,2015 1755,2015 1800,2015 1845,2015 1889,2015 1934,2018 1979,2015 2024,2018 2068,2018 2113,2018 2158,2015 2203,2015 2248,2018 2292,2015 2337,2015"/>
+                <TextEquiv>
+                    <Unicode>Posebno me veseli, da smo za ov digitalni kalendar preteſno zi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944240_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1250,2080 2324,2082 2324,2037 1250,2031"/>
+                <Baseline points="1259,2071 1304,2071 1349,2068 1394,2068 1439,2068 1483,2068 1528,2068 1573,2068 1618,2068 1662,2068 1707,2071 1752,2068 1797,2068 1842,2068 1886,2068 1931,2071 1976,2068 2021,2068 2065,2071 2110,2071 2155,2071 2200,2071 2245,2068 2289,2068 2328,2071"/>
+                <TextEquiv>
+                    <Unicode>brali tekste iz kalendara „Radujmo se“, koga je naš razred 20002</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944240_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1250,2135 2340,2140 2340,2097 2224,2089 1250,2090"/>
+                <Baseline points="1259,2125 1268,2125 1313,2125 1358,2125 1403,2125 1447,2122 1492,2122 1537,2122 1582,2125 1627,2125 1671,2122 1716,2122 1761,2122 1806,2122 1851,2122 1895,2122 1940,2122 1985,2122 2030,2125 2074,2125 2119,2125 2164,2125 2209,2125 2254,2122 2298,2125 2343,2122"/>
+                <TextEquiv>
+                    <Unicode>ljeta priredio u gimnazili. Jos se dobro spominjam, kako smo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944240_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1250,2185 2340,2190 2340,2155 2271,2145 1250,2153"/>
+                <Baseline points="1259,2179 1304,2176 1349,2179 1394,2179 1439,2179 1483,2176 1528,2176 1573,2176 1618,2176 1662,2179 1707,2176 1752,2176 1797,2176 1842,2176 1886,2176 1931,2179 1976,2176 2021,2179 2065,2179 2110,2179 2155,2179 2200,2179 2245,2179 2289,2179 2334,2182 2343,2179"/>
+                <TextEquiv>
+                    <Unicode>napisali tekste s gospom Giselom Csenar i se veselili, da ce se</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944240_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1254,2244 2335,2241 2320,2201 1254,2211"/>
+                <Baseline points="1262,2233 1307,2233 1352,2233 1397,2233 1442,2230 1486,2233 1531,2233 1576,2233 1621,2233 1665,2233 1710,2230 1755,2230 1800,2233 1845,2233 1889,2233 1934,2233 1979,2230 2024,2233 2068,2233 2113,2233 2158,2233 2203,2233 2248,2233 2292,2233 2337,2233 2340,2233"/>
+                <TextEquiv>
+                    <Unicode>naše dielo zaistinu izdati. U oni casi si nijedan nije mislio da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944240_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1250,2297 2324,2299 2324,2261 1250,2267"/>
+                <Baseline points="1259,2286 1304,2286 1349,2286 1394,2286 1439,2283 1483,2286 1528,2283 1573,2286 1618,2286 1662,2283 1707,2286 1752,2286 1797,2286 1842,2286 1886,2286 1931,2286 1976,2286 2021,2286 2065,2286 2110,2286 2155,2286 2200,2286 2245,2286 2289,2286 2328,2289"/>
+                <TextEquiv>
+                    <Unicode>cédu nasi teksti jos i dojti na Youtube. Ja se ufam, da ovim pu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944240_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1250,2352 2335,2355 2335,2315 2261,2305 1250,2312"/>
+                <Baseline points="1259,2340 1304,2340 1349,2340 1394,2340 1439,2340 1483,2340 1528,2340 1573,2340 1618,2340 1662,2340 1707,2340 1752,2340 1797,2340 1842,2340 1886,2340 1931,2340 1976,2340 2021,2340 2065,2343 2110,2343 2155,2340 2200,2340 2245,2340 2289,2343 2334,2343 2340,2340"/>
+                <TextEquiv>
+                    <Unicode>tem moremo i veé pedagogov i skolarov motivirati, da se bavu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944240_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1259,2419 2340,2410 2340,2368 2233,2362 1259,2368"/>
+                <Baseline points="1268,2400 1313,2394 1358,2394 1403,2394 1447,2394 1492,2394 1537,2394 1582,2394 1627,2397 1671,2394 1716,2394 1761,2394 1806,2394 1851,2394 1895,2397 1940,2394 1985,2397 2030,2394 2074,2397 2119,2394 2164,2397 2209,2394 2254,2397 2298,2397 2343,2394"/>
+                <TextEquiv>
+                    <Unicode>gradiscansko-hrvatskim jezikom i se njeva diela i ideje sìiru na</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944240_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1250,2457 1391,2459 1411,2469 1571,2459 1571,2424 1381,2418 1368,2426 1353,2414 1316,2414 1303,2428 1250,2428"/>
+                <Baseline points="1259,2451 1262,2451 1307,2451 1352,2451 1397,2448 1442,2448 1486,2448 1531,2451 1576,2448"/>
+                <TextEquiv>
+                    <Unicode>različni platforma</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764944241" custom="readingOrder {index:8;}">
+            <Coords points="1258,2506 2341,2506 2338,3285 1247,3292"/>
+            <TextLine id="tr_1764944241_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1250,2543 2335,2547 2335,2505 2279,2497 1250,2509"/>
+                <Baseline points="1259,2537 1265,2537 1310,2534 1355,2537 1400,2534 1444,2534 1489,2534 1534,2534 1579,2534 1624,2537 1668,2534 1713,2534 1758,2534 1803,2534 1848,2534 1892,2537 1937,2534 1982,2534 2027,2534 2071,2537 2116,2537 2161,2534 2206,2537 2251,2537 2295,2537 2340,2534"/>
+                <TextEquiv>
+                    <Unicode>Snimanje ovih povidaikov je bilo jako veselo za Raphaelu i za</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1250,2600 2333,2603 2317,2552 1250,2572"/>
+                <Baseline points="1259,2591 1304,2591 1349,2591 1394,2591 1439,2591 1483,2591 1528,2591 1573,2591 1618,2588 1662,2591 1707,2588 1752,2591 1797,2591 1842,2591 1886,2591 1931,2591 1976,2591 2021,2591 2065,2591 2110,2591 2155,2591 2200,2591 2245,2588 2289,2591 2334,2591 2337,2591"/>
+                <TextEquiv>
+                    <Unicode>mene, ser smo hižu lipo božiéno dekorirali i se razveselili povi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1250,2658 2340,2659 2340,2606 1250,2620"/>
+                <Baseline points="1259,2645 1304,2645 1349,2645 1394,2645 1439,2645 1483,2645 1528,2645 1573,2645 1618,2645 1662,2645 1707,2645 1752,2645 1797,2645 1842,2645 1886,2645 1931,2645 1976,2645 2021,2645 2065,2645 2110,2645 2155,2645 2200,2645 2245,2645 2289,2645 2334,2648 2343,2645"/>
+                <TextEquiv>
+                    <Unicode>dajkami, ke sam pročitala. Napravili smo si ęisto professionalni</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1254,2714 2327,2715 2327,2672 2271,2666 1254,2666"/>
+                <Baseline points="1262,2698 1307,2698 1352,2698 1397,2695 1442,2698 1486,2698 1531,2698 1576,2698 1621,2698 1665,2698 1710,2698 1755,2698 1800,2698 1845,2698 1889,2698 1934,2698 1979,2698 2024,2698 2068,2698 2113,2698 2158,2698 2203,2701 2248,2698 2292,2698 2331,2698"/>
+                <TextEquiv>
+                    <Unicode>studio s mobitelom i mikrofonom. Isto tako su to djelali i sv.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1250,2760 2340,2763 2340,2727 1250,2734"/>
+                <Baseline points="1259,2752 1304,2752 1349,2752 1394,2752 1439,2752 1483,2752 1528,2752 1573,2755 1618,2752 1662,2752 1707,2752 1752,2752 1797,2752 1842,2752 1886,2752 1931,2755 1976,2755 2021,2752 2065,2752 2110,2752 2155,2752 2200,2752 2245,2752 2289,2752 2334,2755 2343,2755"/>
+                <TextEquiv>
+                    <Unicode>drugi akteri, naprimjer Katarina Zvonarich, svi su u domacem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1255,2826 2324,2820 2276,2775 1255,2793"/>
+                <Baseline points="1265,2812 1298,2809 1343,2806 1388,2809 1433,2809 1477,2806 1522,2806 1567,2806 1612,2806 1656,2806 1701,2806 1746,2809 1791,2809 1836,2809 1880,2809 1925,2806 1970,2806 2015,2809 2060,2809 2104,2809 2149,2806 2194,2809 2239,2809 2283,2806 2328,2806"/>
+                <TextEquiv>
+                    <Unicode>„studiju". Za snimke i fotomaterial, rizanje itd., su se skrbili bi¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1250,2871 2327,2876 2299,2823 1250,2838"/>
+                <Baseline points="1259,2863 1304,2860 1349,2863 1394,2863 1439,2860 1483,2860 1528,2860 1573,2860 1618,2860 1662,2863 1707,2860 1752,2863 1797,2863 1842,2860 1886,2860 1931,2863 1976,2863 2021,2863 2065,2860 2110,2863 2155,2863 2200,2863 2245,2860 2289,2863 2331,2863"/>
+                <TextEquiv>
+                    <Unicode>ti Florian i Matthias Wagner, oni su preuzeli i tehnicko dijelo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1250,2927 2333,2932 2310,2882 1250,2889"/>
+                <Baseline points="1259,2916 1304,2913 1349,2913 1394,2913 1439,2913 1483,2916 1528,2913 1573,2916 1618,2916 1662,2916 1707,2913 1752,2913 1797,2916 1842,2913 1886,2913 1931,2916 1976,2913 2021,2916 2065,2913 2110,2916 2155,2916 2200,2913 2245,2913 2289,2916 2334,2916 2337,2916"/>
+                <TextEquiv>
+                    <Unicode>napravili od materiala prinose, ki se stavu svaki dan na youtub</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1255,2987 2008,2987 2008,2939 1255,2945"/>
+                <Baseline points="1265,2970 1310,2970 1355,2967 1400,2970 1444,2967 1489,2967 1534,2967 1579,2967 1624,2967 1668,2967 1713,2967 1758,2967 1803,2970 1848,2970 1892,2970 1937,2970 1982,2970 2012,2973"/>
+                <TextEquiv>
+                    <Unicode>(svaki dan u 18.00 h se otvori jedan obločić)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1254,3066 2335,3074 2335,3020 2302,3016 1254,3008"/>
+                <Baseline points="1262,3057 1307,3057 1352,3057 1397,3057 1442,3057 1486,3057 1531,3057 1576,3057 1621,3057 1665,3057 1710,3057 1755,3057 1800,3057 1845,3057 1889,3057 1934,3057 1979,3057 2024,3057 2068,3057 2113,3057 2158,3057 2203,3057 2248,3057 2292,3060 2337,3060"/>
+                <TextEquiv>
+                    <Unicode>Ovo je bio zaistinu lip doživljaj i ja svakomu morem preporučit,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1250,3117 2340,3124 2340,3089 2066,3078 1250,3091"/>
+                <Baseline points="1259,3110 1304,3110 1349,3110 1394,3110 1439,3110 1483,3110 1528,3110 1573,3110 1618,3107 1662,3110 1707,3110 1752,3110 1797,3110 1842,3110 1886,3110 1931,3110 1976,3110 2021,3110 2065,3113 2110,3110 2155,3110 2200,3110 2245,3110 2289,3110 2334,3113 2343,3110"/>
+                <TextEquiv>
+                    <Unicode>da si pogleda nam digitalni kalendar. Ufam se, da ovo nije samo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1254,3188 2335,3180 2335,3129 1254,3131"/>
+                <Baseline points="1262,3167 1265,3164 1310,3167 1355,3164 1400,3167 1444,3167 1489,3164 1534,3164 1579,3164 1624,3164 1668,3164 1713,3164 1758,3164 1803,3164 1848,3164 1892,3164 1937,3164 1982,3164 2027,3164 2071,3164 2116,3164 2161,3167 2206,3164 2251,3164 2295,3164 2340,3164"/>
+                <TextEquiv>
+                    <Unicode>jedan projekt za ovo ljeto, nego da cémo u dojduči ljeti isto veé</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1254,3235 2335,3236 2335,3192 1254,3195"/>
+                <Baseline points="1262,3221 1265,3221 1310,3221 1355,3221 1400,3218 1444,3218 1489,3218 1534,3218 1579,3221 1624,3221 1668,3218 1713,3218 1758,3218 1803,3218 1848,3218 1892,3221 1937,3218 1982,3218 2027,3218 2071,3221 2116,3218 2161,3221 2206,3221 2251,3218 2295,3221 2340,3218"/>
+                <TextEquiv>
+                    <Unicode>kjelamo na digitalnom pedručju i tim dostignemo mlade i sve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764944241_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1250,3281 1500,3283 1510,3293 1596,3283 1596,3248 1320,3250 1306,3241 1250,3251"/>
+                <Baseline points="1259,3275 1286,3272 1331,3275 1376,3272 1421,3272 1465,3275 1510,3272 1555,3275 1600,3272"/>
+                <TextEquiv>
+                    <Unicode>zainteresirane ljude</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764944236" custom="readingOrder {index:9;}">
+            <Coords points="1266,3336 1577,3336 1577,3372 1266,3372"/>
+            <TextLine id="tr_1764944236_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1255,3367 1569,3370 1569,3322 1543,3322 1530,3336 1386,3327 1374,3339 1328,3324 1255,3324"/>
+                <Baseline points="1265,3361 1310,3361 1355,3361 1400,3361 1444,3361 1489,3361 1534,3361 1573,3361"/>
+                <TextEquiv>
+                    <Unicode>Viktoria Kuzmits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

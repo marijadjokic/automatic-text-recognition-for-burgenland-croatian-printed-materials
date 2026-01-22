@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.38.0:model_id=42352:lm=none:date=20_01_2026_13:43</Creator>
+        <Created>2026-01-20T11:48:47.540+01:00</Created>
+        <LastChange>2026-01-20T13:43:52.413+01:00</LastChange>
+        <TranskribusMetadata docId="13771439" pageId="112425578" pageNr="2" tsid="272506816" status="IN_PROGRESS" userId="246057" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=CYUHGFWRVKIGWLITIGSKNKDO" xmlUrl="https://files.transkribus.eu/Get?id=SRTSLJBEXFNINEUQGXRZCAWG" imageId="95011958"/>
+    </Metadata>
+    <Page imageFilename="0002_p002.jpg" imageWidth="2479" imageHeight="3508">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1769091121558" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="tr_1" custom="readingOrder {index:0;}">
+            <Coords points="280,290 280,3159 2182,3159 2182,290"/>
+            <TextLine id="tr_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="286,356 2179,362 2179,296 286,290"/>
+                <Baseline points="286,334 380,334 475,337 569,337 664,337 759,337 853,338 948,337 1043,337 1137,337 1232,337 1327,337 1421,337 1516,337 1611,337 1705,337 1800,337 1895,337 1989,340 2084,337 2179,340"/>
+                <TextEquiv>
+                    <Unicode>U Novom Gradu su postojale dvi fare: Nimška fara sv. Jakova i hwvatska fara sv. Mikule. 1946.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="295,456 2116,450 2116,386 295,392"/>
+                <Baseline points="295,435 386,426 477,426 568,426 659,426 750,426 841,428 932,429 1023,427 1114,426 1205,427 1296,426 1387,426 1478,425 1569,426 1660,426 1751,426 1842,426 1933,429 2024,429 2116,429"/>
+                <TextEquiv>
+                    <Unicode>je fara s bivšimi hwvatskimi filijalami složena u novu faru Veliki Medveš. Hwatske filijale su</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="289,543 1803,546 1803,482 289,479"/>
+                <Baseline points="289,522 364,522 440,524 516,519 591,519 667,522 743,522 818,519 894,519 970,522 1046,519 1121,522 1197,522 1273,522 1348,522 1424,522 1500,519 1575,522 1651,522 1727,522 1803,525"/>
+                <TextEquiv>
+                    <Unicode>bile: Zajčevo selo, Žablie selo, Punič, Sv. Mikula, Hwatska Čenča, ľudorica.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="289,666 2089,672 2089,606 1999,602 289,600"/>
+                <Baseline points="289,644 379,644 469,644 559,644 649,641 739,644 829,644 919,644 1009,644 1099,644 1189,647 1279,644 1369,644 1459,644 1549,644 1639,647 1729,647 1819,647 1909,647 1999,646 2089,650"/>
+                <TextEquiv>
+                    <Unicode>Bez prekida su u Novom Gradu dielovali Gradiščanskohwvatski franjevci do 1924. lieta (P.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="283,759 2074,762 2074,696 283,693"/>
+                <Baseline points="283,737 372,740 462,737 551,737 641,737 730,740 820,740 909,737 999,737 1088,740 1178,737 1268,740 1357,740 1447,740 1536,740 1626,740 1715,740 1805,740 1894,740 1984,740 2074,740"/>
+                <TextEquiv>
+                    <Unicode>lambert Pulyai-Bilišič iz Dolnje Pulie onda još P. dr. Atanaz Horvath iz Židana, o komu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="286,851 674,851 674,785 286,785"/>
+                <Baseline points="286,829 311,827 337,826 363,828 389,829 415,829 441,829 467,829 492,829 518,829 544,829 570,828 596,826 622,828 648,829 674,829"/>
+                <TextEquiv>
+                    <Unicode>čemo još več čuti).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="286,974 2167,980 2167,914 286,908"/>
+                <Baseline points="286,952 380,952 474,952 568,953 662,953 756,954 850,954 944,953 1038,955 1132,955 1226,952 1320,955 1414,955 1508,955 1602,955 1696,956 1790,955 1884,955 1978,958 2072,955 2167,958"/>
+                <TextEquiv>
+                    <Unicode>uobadvi franjevački kloštri u Zelieznu najdemo skoro prez prekida naše hrvatske franjevce.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="292,1069 2006,1069 2006,1003 292,1003"/>
+                <Baseline points="292,1047 377,1044 463,1044 549,1044 634,1044 720,1044 806,1045 891,1046 977,1045 1063,1047 1149,1047 1234,1044 1320,1047 1406,1047 1491,1046 1577,1044 1663,1047 1748,1047 1834,1047 1920,1044 2006,1047"/>
+                <TextEquiv>
+                    <Unicode>uZelieznu-Varošu je bio zadnji Sradiščanski Hrvat jur spomenuti P. Lambert Pulai.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="286,1192 2110,1192 2110,1126 286,1126"/>
+                <Baseline points="286,1170 377,1170 468,1170 559,1170 650,1170 742,1170 833,1170 924,1170 1015,1172 1106,1170 1198,1171 1289,1171 1380,1173 1471,1170 1562,1170 1654,1170 1745,1170 1836,1170 1927,1170 2018,1170 2110,1170"/>
+                <TextEquiv>
+                    <Unicode>Do dana današniega svidoči dielovanje hwvatskih franjevcev u Velikom Medvešu: Hwvatski</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="289,1281 2110,1284 2110,1218 289,1215"/>
+                <Baseline points="289,1259 380,1262 471,1262 562,1262 653,1259 744,1262 835,1262 926,1262 1017,1264 1108,1264 1199,1263 1290,1262 1381,1264 1472,1262 1563,1263 1654,1265 1745,1263 1836,1265 1927,1265 2018,1265 2110,1262"/>
+                <TextEquiv>
+                    <Unicode>natpisi na izvanredno lipom križnom putu i hrvatski natpis na farbani obloki, ki glasi: „Ove</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="286,1374 1788,1377 1788,1311 286,1308"/>
+                <Baseline points="286,1352 361,1355 436,1354 511,1352 586,1352 661,1352 736,1355 811,1355 886,1352 961,1355 1037,1355 1112,1355 1187,1355 1262,1355 1337,1355 1412,1355 1487,1353 1562,1353 1637,1355 1712,1352 1788,1355"/>
+                <TextEquiv>
+                    <Unicode>obloke su naši Medvešani u Ameriki na diku Božiu darovali leta 1923. 24."</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="286,1499 2158,1499 2158,1433 286,1433"/>
+                <Baseline points="286,1477 379,1477 473,1477 566,1477 660,1479 754,1477 847,1477 941,1480 1034,1480 1128,1480 1222,1480 1315,1477 1409,1480 1502,1480 1596,1480 1690,1480 1783,1479 1877,1477 1970,1477 2064,1480 2158,1477"/>
+                <TextEquiv>
+                    <Unicode>Preteča molitvenikaP. Lovre Bogoviča, Hiža zlata (1754.), je rukopisni molitvenik P. Serafina</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="295,1591 2054,1588 2054,1524 295,1527"/>
+                <Baseline points="295,1570 387,1570 480,1570 572,1570 665,1573 757,1570 850,1573 943,1570 1035,1571 1128,1571 1220,1572 1313,1570 1405,1571 1498,1571 1591,1570 1683,1572 1776,1571 1868,1570 1961,1570 2054,1567"/>
+                <TextEquiv>
+                    <Unicode>Gyivkoviča iz 1728. ljeta pod naslovom ,„Libellus infirmorum desewviens patri Hungaro¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="289,1683 2182,1674 2182,1610 289,1619"/>
+                <Baseline points="289,1662 383,1659 478,1659 572,1659 667,1660 762,1659 856,1659 951,1661 1046,1662 1140,1662 1235,1662 1330,1662 1424,1662 1519,1659 1614,1662 1708,1660 1803,1661 1898,1662 1992,1662 2087,1659 2182,1653"/>
+                <TextEquiv>
+                    <Unicode>croatae conscriptus industria P. fratris Serapbini Gyivkovičs", ki rukopis se čuva u 8udimpešti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="292,1774 2095,1771 2095,1705 292,1708"/>
+                <Baseline points="292,1752 382,1753 472,1754 562,1752 652,1754 742,1752 832,1755 923,1753 1013,1755 1103,1752 1193,1755 1283,1755 1373,1755 1463,1755 1554,1755 1644,1752 1734,1752 1824,1755 1914,1755 2004,1752 2095,1749"/>
+                <TextEquiv>
+                    <Unicode>u nacionalnoj Széchenyi biblioteki. Rukopisni molitveník je trojezičan - hwatski, ugarskii</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="286,1867 2110,1873 2110,1807 286,1801"/>
+                <Baseline points="286,1845 377,1845 468,1845 559,1845 650,1845 742,1848 833,1847 924,1847 1015,1846 1106,1846 1198,1845 1289,1846 1380,1847 1471,1846 1562,1845 1654,1847 1745,1845 1836,1845 1927,1845 2018,1848 2110,1851"/>
+                <TextEquiv>
+                    <Unicode>latinski, a je od več ruk napisan. Sadržava lauretansku litaniju, Litaniju mena lezuševoga,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="289,1956 1462,1962 1462,1896 1403,1890 289,1890"/>
+                <Baseline points="289,1934 347,1935 406,1935 464,1937 523,1937 582,1935 640,1934 699,1934 758,1935 816,1937 875,1937 934,1937 992,1937 1051,1937 1110,1937 1168,1937 1227,1940 1286,1937 1344,1937 1403,1934 1462,1940"/>
+                <TextEquiv>
+                    <Unicode>mašne molitve s posebnim težiščem batrenja betežníkov.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_18" custom="readingOrder {index:17;}">
+                <Coords points="292,2082 2179,2082 2179,2016 292,2016"/>
+                <Baseline points="292,2060 386,2060 480,2060 575,2060 669,2061 763,2063 858,2063 952,2063 1046,2063 1141,2063 1235,2063 1329,2063 1424,2063 1518,2062 1612,2062 1707,2063 1801,2063 1895,2063 1990,2063 2084,2063 2179,2060"/>
+                <TextEquiv>
+                    <Unicode>Osamom P. Serafinu nam je dost malo poznato: Rodjen oko 1700. u Mučindrofu, stupi u red</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_19" custom="readingOrder {index:18;}">
+                <Coords points="289,2174 2179,2171 2179,2105 289,2108"/>
+                <Baseline points="289,2152 383,2152 478,2149 572,2152 667,2153 761,2152 856,2152 950,2153 1045,2154 1139,2152 1234,2152 1328,2152 1423,2152 1517,2152 1612,2152 1706,2155 1801,2153 1895,2155 1990,2152 2084,2152 2179,2149"/>
+                <TextEquiv>
+                    <Unicode>franjevcev Marijanske provincije (15.6.1719.) je vršio službu hrvatskoga prodikača u Novom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_20" custom="readingOrder {index:19;}">
+                <Coords points="295,2264 2164,2267 2164,2201 295,2198"/>
+                <Baseline points="295,2242 388,2245 481,2245 575,2245 668,2247 762,2245 855,2244 949,2245 1042,2245 1136,2245 1229,2245 1322,2245 1416,2242 1509,2245 1603,2244 1696,2243 1790,2245 1883,2245 1977,2245 2070,2243 2164,2245"/>
+                <TextEquiv>
+                    <Unicode>Gradu, bio je kapelan u Kôrmendu s onda još hwvatskimi filijalami Dolnjem i Gorniem Bereku</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_21" custom="readingOrder {index:20;}">
+                <Coords points="286,2356 2086,2359 2086,2293 286,2290"/>
+                <Baseline points="286,2334 376,2334 466,2334 556,2334 646,2337 736,2337 826,2337 916,2337 1006,2337 1096,2337 1186,2334 1276,2334 1366,2337 1456,2337 1546,2337 1636,2337 1726,2337 1816,2337 1906,2337 1996,2337 2086,2337"/>
+                <TextEquiv>
+                    <Unicode>kao i s Hwvatskom Nadaljom. Omro je 8.3.1736, 36 liet star, u Želieznu na Brigu. Njegovo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_22" custom="readingOrder {index:21;}">
+                <Coords points="292,2446 1080,2452 1080,2386 292,2380"/>
+                <Baseline points="292,2424 331,2427 370,2425 410,2426 449,2427 489,2427 528,2427 567,2427 607,2427 646,2427 686,2429 725,2430 764,2430 804,2429 843,2428 883,2429 922,2427 961,2430 1001,2430 1040,2430 1080,2430"/>
+                <TextEquiv>
+                    <Unicode>obitelisko ime se najde i pod Ojukovič.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_23" custom="readingOrder {index:22;}">
+                <Coords points="286,2574 2140,2574 2140,2508 286,2508"/>
+                <Baseline points="286,2552 378,2552 471,2552 564,2552 656,2552 749,2552 842,2555 934,2552 1027,2552 1120,2553 1213,2552 1305,2552 1398,2552 1491,2552 1583,2552 1676,2552 1769,2552 1861,2552 1954,2552 2047,2553 2140,2552"/>
+                <TextEquiv>
+                    <Unicode>Pranjevačku trojku, u sredini 18. stolieča, zovemo one tri znamenite franjevce, ki su svojimi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_24" custom="readingOrder {index:23;}">
+                <Coords points="286,2664 2149,2664 2149,2598 286,2598"/>
+                <Baseline points="286,2642 379,2645 472,2645 565,2645 658,2643 751,2645 844,2645 938,2645 1031,2643 1124,2645 1217,2643 1310,2645 1403,2645 1496,2645 1590,2642 1683,2645 1776,2645 1869,2645 1962,2645 2055,2645 2149,2642"/>
+                <TextEquiv>
+                    <Unicode>baroknimi molitvenikí, katekizmuši i šlabikari obogatili našu crikvenu nabožnu literaturu, ka</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_25" custom="readingOrder {index:24;}">
+                <Coords points="292,2761 2137,2755 2137,2691 292,2697"/>
+                <Baseline points="292,2740 384,2734 476,2734 568,2734 661,2734 753,2737 845,2734 937,2734 1030,2734 1122,2735 1214,2737 1306,2737 1399,2734 1491,2734 1583,2735 1675,2735 1768,2734 1860,2737 1952,2737 2044,2734 2137,2734"/>
+                <TextEquiv>
+                    <Unicode>je još daleko djelovala na pobožnost hrvatskoga naroda i u 19. stolieču. Govor je o P. Lovri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_26" custom="readingOrder {index:25;}">
+                <Coords points="286,2848 2173,2848 2173,2784 286,2784"/>
+                <Baseline points="286,2827 380,2827 474,2827 569,2827 663,2827 757,2827 852,2828 946,2827 1040,2827 1135,2827 1229,2827 1323,2827 1418,2827 1512,2827 1606,2827 1701,2828 1795,2827 1889,2827 1984,2824 2078,2827 2173,2827"/>
+                <TextEquiv>
+                    <Unicode>Bogoviču, P. Godefridu Palkoviču i oP. Jeremiji Sostariču. Sva troja imena franjevcev su bila</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_27" custom="readingOrder {index:26;}">
+                <Coords points="292,2944 2012,2941 2012,2875 292,2878"/>
+                <Baseline points="292,2922 378,2917 464,2919 550,2919 636,2917 722,2919 808,2919 894,2922 980,2919 1066,2919 1152,2919 1238,2920 1324,2919 1410,2919 1496,2919 1582,2921 1668,2920 1754,2919 1840,2919 1926,2916 2012,2919"/>
+                <TextEquiv>
+                    <Unicode>još živa i do polovice projdučega 20. stolieča i jur u tom se kaže značajnost naših trih</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_28" custom="readingOrder {index:27;}">
+                <Coords points="289,3040 365,3031 543,3034 543,2968 365,2965 289,2974"/>
+                <Baseline points="289,3018 314,3013 339,3011 365,3009 390,3011 416,3012 441,3010 466,3010 492,3012 517,3012 543,3012"/>
+                <TextEquiv>
+                    <Unicode>„velikanov".</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1_tl_29" custom="readingOrder {index:28;}">
+                <Coords points="280,3153 647,3156 647,3090 280,3087"/>
+                <Baseline points="280,3131 306,3133 332,3134 358,3134 384,3134 411,3134 437,3136 463,3137 489,3137 515,3137 542,3137 568,3136 594,3134 620,3134 647,3134"/>
+                <TextEquiv>
+                    <Unicode>P. Lovre Bogovič</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

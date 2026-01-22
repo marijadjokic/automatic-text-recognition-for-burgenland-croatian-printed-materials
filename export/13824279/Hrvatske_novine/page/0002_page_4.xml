@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=READ-COOP:name=PyLaia@TranskribusPlatform:version=2.35.0:model_id=442685:lm=none:date=04_12_2025_11:37</Creator>
+        <Created>2025-12-04T11:29:08.594734</Created>
+        <LastChange>2026-01-21T11:42:29.386+01:00</LastChange>
+        <TranskribusMetadata docId="13824279" pageId="112586313" pageNr="2" tsid="272831657" status="GT" userId="246057" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=VUMEGEBRCILMOXZSUQZIVJGW" xmlUrl="https://files.transkribus.eu/Get?id=TAXSIDMITLPWOJYNUPYGZCQB" imageId="90316975"/>
+    </Metadata>
+    <Page imageFilename="0002_page_4.jpeg" imageWidth="2431" imageHeight="3490">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1769091097080" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="tr_1764844167"/>
+                <RegionRefIndexed index="1" regionRef="tr_1764844169"/>
+                <RegionRefIndexed index="2" regionRef="tr_1764844164"/>
+                <RegionRefIndexed index="3" regionRef="r"/>
+                <RegionRefIndexed index="4" regionRef="tr_1764844161"/>
+                <RegionRefIndexed index="5" regionRef="tr_1764844160"/>
+                <RegionRefIndexed index="6" regionRef="tr_1764844158"/>
+                <RegionRefIndexed index="7" regionRef="r_1"/>
+                <RegionRefIndexed index="8" regionRef="tr_1764844155"/>
+                <RegionRefIndexed index="9" regionRef="r_4"/>
+                <RegionRefIndexed index="10" regionRef="r_5"/>
+                <RegionRefIndexed index="11" regionRef="tr_1764844156"/>
+                <RegionRefIndexed index="12" regionRef="tr_1764844154"/>
+                <RegionRefIndexed index="13" regionRef="tr_1764844157"/>
+                <RegionRefIndexed index="14" regionRef="tr_1764844173"/>
+                <RegionRefIndexed index="15" regionRef="r_2"/>
+                <RegionRefIndexed index="16" regionRef="tr_1764844159"/>
+                <RegionRefIndexed index="17" regionRef="r_3"/>
+                <RegionRefIndexed index="18" regionRef="tr_1764844172"/>
+                <RegionRefIndexed index="19" regionRef="tr_1764844163"/>
+                <RegionRefIndexed index="20" regionRef="tr_1764844165"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="tr_1764844167" custom="readingOrder {index:0;}">
+            <Coords points="37,95 515,95 515,134 37,134"/>
+            <TextLine id="tr_1764844167_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="21,134 149,153 196,134 285,153 523,138 523,79 489,89 465,70 385,87 176,72 83,100 21,83"/>
+                <Baseline points="32,125 77,125 122,125 167,125 211,125 256,125 301,125 346,125 391,125 435,125 480,125 525,128 528,128"/>
+                <TextEquiv>
+                    <Unicode>4 HRVATSKE NOVINE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844169" custom="readingOrder {index:1;}">
+            <Coords points="29,215 588,212 585,704 32,704"/>
+            <TextLine id="tr_1764844169_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="15,266 26,266 32,272 55,264 72,272 91,266 110,272 125,270 125,185 106,187 98,183 89,191 74,191 64,200 47,202 30,191 15,193"/>
+                <Baseline points="26,238 71,238 116,238 131,238"/>
+                <TextEquiv>
+                    <Unicode>30. III</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="155,274 183,261 580,270 580,200 555,191 478,206 446,193 410,210 346,196 285,212 155,200"/>
+                <Baseline points="167,238 211,241 256,241 301,241 346,241 391,238 435,241 480,241 525,241 570,238 585,238"/>
+                <TextEquiv>
+                    <Unicode>Srijeda 20 % je alergično</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="155,321 232,310 255,323 295,308 332,319 378,308 397,321 416,306 512,321 572,308 572,266 546,264 178,264 155,276"/>
+                <Baseline points="167,295 211,301 256,298 301,301 346,298 391,301 435,301 480,298 525,301 570,298 576,298"/>
+                <TextEquiv>
+                    <Unicode>Alergično je 20 % popula-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="155,355 578,359 578,312 155,321"/>
+                <Baseline points="167,343 211,346 256,346 301,346 346,346 391,343 435,346 480,346 525,346 570,346 582,343"/>
+                <TextEquiv>
+                    <Unicode>cije, astma sve češća med</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="159,404 576,404 576,359 544,355 270,368 159,355"/>
+                <Baseline points="170,394 179,391 223,394 268,394 313,394 358,394 403,394 447,394 492,394 537,394 582,391"/>
+                <TextEquiv>
+                    <Unicode>dicom. U razvijeni zemlja</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="159,457 208,446 280,459 329,442 457,459 572,453 572,408 159,406"/>
+                <Baseline points="170,441 173,438 217,438 262,438 307,438 352,438 397,438 441,438 486,438 531,438 576,435"/>
+                <TextEquiv>
+                    <Unicode>je uočena viša stopa aler-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="159,504 576,495 576,453 559,448 455,463 336,444 312,459 208,448 159,459"/>
+                <Baseline points="170,489 179,489 223,486 268,486 313,486 358,486 403,486 447,486 492,486 537,486 582,483"/>
+                <TextEquiv>
+                    <Unicode>gijskih bolesti u odnosu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="159,546 576,544 576,502 540,495 423,506 406,495 361,510 242,495 159,504"/>
+                <Baseline points="170,528 214,534 259,534 304,534 349,534 394,531 438,531 483,531 528,534 573,531 582,531"/>
+                <TextEquiv>
+                    <Unicode>prema nerazvijenim ča je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="155,599 227,586 567,597 567,546 155,548"/>
+                <Baseline points="167,579 170,579 214,579 259,579 304,579 349,579 394,579 438,579 483,579 528,579 573,576"/>
+                <TextEquiv>
+                    <Unicode>izravan dokaz za industrij-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="159,635 306,657 351,640 425,659 478,635 512,648 572,642 572,599 544,591 159,599"/>
+                <Baseline points="170,626 214,626 259,626 304,626 349,626 394,626 438,626 483,626 528,626 573,626 576,626"/>
+                <TextEquiv>
+                    <Unicode>sko onečišćenje prirode.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="19,718 42,714 55,720 62,714 87,725 110,712 134,718 130,620 110,618 98,629 87,623 47,648 17,652"/>
+                <Baseline points="29,689 74,692 119,692 134,695"/>
+                <TextEquiv>
+                    <Unicode>31.III.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844169_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="155,718 389,712 427,725 442,712 580,710 580,661 499,640 434,667 412,648 387,663 321,652 306,667 266,646 155,650"/>
+                <Baseline points="167,689 211,692 256,692 301,692 346,692 391,692 435,692 480,692 525,692 570,692 585,692"/>
+                <TextEquiv>
+                    <Unicode>Četvrtak Sárkőzy u Tokiju</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844164" custom="readingOrder {index:2;}">
+            <Coords points="19,725 583,725 578,1146 24,1159"/>
+            <TextLine id="tr_1764844164_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="159,763 582,765 582,720 557,712 533,725 444,712 429,727 366,729 159,718"/>
+                <Baseline points="170,749 214,752 259,752 304,752 349,752 394,752 438,752 483,752 528,752 573,752 585,752"/>
+                <TextEquiv>
+                    <Unicode>Francuski predsjednik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844164_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="162,810 567,810 567,767 361,761 323,776 162,763"/>
+                <Baseline points="173,797 217,800 262,800 307,797 352,797 397,800 441,800 486,800 531,800 573,797"/>
+                <TextEquiv>
+                    <Unicode>Sárkőzy u Tokiju je pred</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844164_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="159,854 582,858 582,810 565,808 336,820 159,810"/>
+                <Baseline points="170,841 214,844 259,844 304,844 349,844 394,844 438,844 483,844 528,844 573,841 585,841"/>
+                <TextEquiv>
+                    <Unicode>ložio sastanak predstavni-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844164_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="155,901 578,905 578,858 561,854 429,869 346,854 155,856"/>
+                <Baseline points="167,889 211,892 256,892 301,892 346,892 391,892 435,892 480,892 525,892 570,892 582,889"/>
+                <TextEquiv>
+                    <Unicode>kov za nuklearna pitanja</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844164_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="153,950 576,956 578,914 540,901 491,914 208,899 155,912"/>
+                <Baseline points="167,934 211,940 256,940 301,937 346,940 391,940 435,937 480,937 525,937 570,937 582,937"/>
+                <TextEquiv>
+                    <Unicode>skupine G20 u maju u Pa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844164_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="155,999 578,994 578,956 546,948 155,958"/>
+                <Baseline points="167,985 211,985 256,985 301,985 346,985 391,985 435,985 480,985 525,985 570,985 582,985"/>
+                <TextEquiv>
+                    <Unicode>rizu, kako bi se definirale</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844164_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="162,1050 291,1037 393,1052 576,1048 576,997 552,994 321,1007 257,994 162,1018"/>
+                <Baseline points="173,1032 217,1032 262,1032 307,1029 352,1032 397,1032 441,1032 486,1032 531,1032 576,1032 582,1032"/>
+                <TextEquiv>
+                    <Unicode>„norme o medjunarodnoj</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844164_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="155,1094 217,1088 261,1103 274,1090 332,1101 361,1090 397,1107 416,1088 459,1088 546,1101 546,1043 155,1052"/>
+                <Baseline points="167,1077 211,1077 256,1077 301,1077 346,1077 391,1077 435,1077 480,1077 525,1077 549,1080"/>
+                <TextEquiv>
+                    <Unicode>nuklearnoj sigurnosti“.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844164_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="34,1171 49,1173 57,1167 64,1169 68,1164 74,1167 79,1162 91,1173 113,1171 110,1099 98,1096 79,1105 68,1105 60,1096 57,1099 55,1096 32,1096"/>
+                <Baseline points="44,1137 89,1137 116,1140"/>
+                <TextEquiv>
+                    <Unicode>1. IV.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844164_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="155,1169 580,1164 580,1111 546,1116 531,1101 342,1096 302,1126 272,1126 246,1103 208,1114 155,1094"/>
+                <Baseline points="167,1137 211,1143 256,1143 301,1140 346,1143 391,1143 435,1143 480,1143 525,1143 570,1140 585,1140"/>
+                <TextEquiv>
+                    <Unicode>Petak Kriza u Japanu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:3;}">
+            <Coords points="950,78 1465,78 1465,151 950,151"/>
+            <TextLine id="r_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="952,147 1466,149 1466,94 1430,85 1232,94 1205,79 1186,94 1133,79 1082,94 1020,74 952,89"/>
+                <Baseline points="964,134 979,134 1024,131 1068,131 1113,131 1158,131 1203,131 1247,131 1292,128 1337,131 1382,131 1427,131 1471,131"/>
+                <TextEquiv>
+                    <Unicode>HRVATSKE NOVINE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844161" custom="readingOrder {index:4;}">
+            <Coords points="626,201 1787,201 1787,450 626,450"/>
+            <TextLine id="tr_1764844161_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="627,329 1774,319 1757,221 1345,219 1173,261 1107,217 627,234"/>
+                <Baseline points="638,292 683,292 728,295 773,295 818,292 862,295 907,295 952,295 997,292 1041,289 1086,289 1131,289 1176,289 1221,289 1265,292 1310,292 1355,292 1400,295 1444,295 1489,295 1534,292 1579,295 1624,295 1668,295 1713,295 1758,292 1779,298"/>
+                <TextEquiv>
+                    <Unicode>Berlaković sa 100% odibran za predsjed-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844161_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="678,436 1732,438 1732,355 678,355"/>
+                <Baseline points="689,414 734,420 779,420 823,420 868,420 913,420 958,423 1003,420 1047,420 1092,420 1137,417 1182,420 1227,417 1271,420 1316,420 1361,423 1406,423 1450,423 1495,423 1540,423 1585,423 1630,423 1674,420 1719,417 1737,414"/>
+                <TextEquiv>
+                    <Unicode>nika Gradišćanskoga saveza seljakov</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844160" custom="readingOrder {index:5;}">
+            <Coords points="632,486 1192,486 1192,1301 630,1293"/>
+            <TextLine id="tr_1764844160_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="620,525 695,544 746,525 1184,542 1182,476 1090,474 1039,448 924,484 793,459 754,480 688,459 618,474"/>
+                <Baseline points="632,519 677,522 722,522 767,522 812,522 856,522 901,522 946,519 991,519 1035,522 1080,522 1125,522 1170,525 1188,525"/>
+                <TextEquiv>
+                    <Unicode>Dipl. inž. Niki Berlaković,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="629,586 1173,591 1173,544 1143,531 629,536"/>
+                <Baseline points="641,573 686,573 731,576 776,576 821,576 865,576 910,573 955,576 1000,573 1044,573 1089,576 1134,573 1179,573"/>
+                <TextEquiv>
+                    <Unicode>ministar poljoprivrede i oko-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="629,654 695,638 1179,646 1179,591 999,584 960,608 933,591 784,604 629,586"/>
+                <Baseline points="641,629 644,626 689,629 734,629 779,629 823,629 868,629 913,629 958,629 1003,626 1047,626 1092,629 1137,629 1182,626"/>
+                <TextEquiv>
+                    <Unicode>liša, je ponovno odibran za</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="627,706 878,686 935,701 1179,693 1179,650 1096,638 627,654"/>
+                <Baseline points="638,686 647,683 692,680 737,680 782,683 826,683 871,683 916,680 961,680 1006,680 1050,680 1095,680 1140,683 1185,683"/>
+                <TextEquiv>
+                    <Unicode>predsjednika Gradišćanskoga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="620,754 856,759 952,740 1171,756 1171,695 969,691 939,710 880,686 856,706 620,706"/>
+                <Baseline points="632,734 677,734 722,734 767,734 812,734 856,734 901,734 946,734 991,734 1035,734 1080,737 1125,737 1170,734 1173,734"/>
+                <TextEquiv>
+                    <Unicode>saveza seljakov. Pri Zemalj-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="620,799 1173,801 1173,756 1139,748 727,761 661,746 620,763"/>
+                <Baseline points="632,785 677,788 722,788 767,788 812,791 856,791 901,788 946,788 991,788 1035,788 1080,788 1125,788 1170,788 1179,788"/>
+                <TextEquiv>
+                    <Unicode>skom danu seljakov subotu,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="620,846 695,867 814,848 865,867 1177,854 1177,810 1137,799 846,818 620,799"/>
+                <Baseline points="632,841 677,841 722,841 767,841 812,841 856,841 901,841 946,841 991,841 1035,841 1080,841 1125,841 1170,838 1182,841"/>
+                <TextEquiv>
+                    <Unicode>2. aprila u prostorija gospo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="627,914 1179,910 1179,863 1154,852 1109,867 994,848 865,867 627,854"/>
+                <Baseline points="638,892 683,895 728,895 773,895 818,895 862,895 907,895 952,892 997,895 1041,895 1086,895 1131,895 1176,892 1185,895"/>
+                <TextEquiv>
+                    <Unicode>darske komore u Željeznu je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="627,963 810,952 1111,975 1179,960 1179,910 627,914"/>
+                <Baseline points="638,946 683,949 728,949 773,949 818,952 862,949 907,949 952,949 997,949 1041,949 1086,949 1131,949 1176,946 1185,949"/>
+                <TextEquiv>
+                    <Unicode>svih 211 delegatov glasovalo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="623,1035 693,1020 861,1033 910,1018 944,1035 1077,1031 1077,967 1060,963 722,956 623,971"/>
+                <Baseline points="635,1003 680,1003 725,1003 770,1003 815,1003 859,1003 904,1003 949,1003 994,1000 1038,1000 1083,1003"/>
+                <TextEquiv>
+                    <Unicode>za Nikija Berlakovića.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="663,1084 824,1099 929,1077 1020,1096 1182,1086 1182,1039 1145,1026 1084,1041 663,1031"/>
+                <Baseline points="674,1065 716,1074 761,1077 806,1077 850,1077 895,1074 940,1074 985,1074 1029,1077 1074,1077 1119,1077 1164,1074 1185,1074"/>
+                <TextEquiv>
+                    <Unicode>ŽELJEZNO — Rodjeni Šuše-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="629,1143 1173,1141 1173,1088 950,1086 912,1103 697,1086 629,1103"/>
+                <Baseline points="641,1125 686,1128 731,1128 776,1128 821,1128 865,1128 910,1128 955,1128 1000,1128 1044,1128 1089,1128 1134,1128 1179,1125"/>
+                <TextEquiv>
+                    <Unicode>vac Niki Berlaković je od 2006.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="635,1196 1179,1188 1179,1139 793,1137 767,1158 635,1143"/>
+                <Baseline points="647,1176 692,1179 737,1179 782,1179 826,1179 871,1179 916,1179 961,1179 1006,1179 1050,1179 1095,1179 1140,1179 1185,1176"/>
+                <TextEquiv>
+                    <Unicode>ljeta u funkciji predsjednika</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="633,1239 869,1239 899,1256 939,1230 1141,1254 1179,1239 1179,1194 1141,1190 960,1205 633,1194"/>
+                <Baseline points="644,1227 689,1232 734,1230 779,1230 823,1232 868,1230 913,1230 958,1230 1003,1230 1047,1230 1092,1230 1137,1230 1182,1230 1185,1230"/>
+                <TextEquiv>
+                    <Unicode>Gradišćanskoga saveza selja-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844160_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="620,1300 1182,1292 1182,1245 1158,1241 620,1243"/>
+                <Baseline points="632,1280 647,1280 692,1280 737,1283 782,1283 826,1283 871,1283 916,1283 961,1283 1006,1280 1050,1280 1095,1280 1140,1283 1185,1277"/>
+                <TextEquiv>
+                    <Unicode>kov. Rekao je, da će se na aus-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844158" custom="readingOrder {index:6;}">
+            <Coords points="1234,488 1790,488 1790,1287 1234,1287"/>
+            <TextLine id="tr_1764844158_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1232,533 1783,531 1783,489 1751,476 1411,491 1324,461 1232,459"/>
+                <Baseline points="1244,519 1289,519 1334,519 1379,519 1424,522 1468,519 1513,519 1558,519 1603,519 1647,519 1692,519 1737,519 1782,519 1785,519"/>
+                <TextEquiv>
+                    <Unicode>trijskoj i europskoj razini zala-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1224,586 1774,586 1774,533 1757,531 1224,533"/>
+                <Baseline points="1235,576 1241,573 1286,570 1331,573 1376,570 1421,570 1465,570 1510,570 1555,570 1600,570 1644,570 1689,570 1734,570 1779,567"/>
+                <TextEquiv>
+                    <Unicode>gati zato, da seljačtvo sadržaj-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1232,633 1776,635 1776,586 1721,578 1696,593 1337,580 1232,595"/>
+                <Baseline points="1244,620 1289,617 1334,620 1379,620 1424,623 1468,620 1513,620 1558,620 1603,620 1647,620 1692,620 1737,620 1782,620"/>
+                <TextEquiv>
+                    <Unicode>no i pinezno dostane tu moć,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1226,680 1534,697 1776,682 1776,635 1732,627 1634,625 1577,648 1226,629"/>
+                <Baseline points="1238,671 1241,671 1286,671 1331,671 1376,671 1421,671 1465,671 1510,671 1555,671 1600,671 1644,671 1689,671 1734,671 1779,668"/>
+                <TextEquiv>
+                    <Unicode>ka mu je potribna, da more is-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1232,740 1494,731 1566,754 1594,733 1679,729 1783,746 1783,682 1683,699 1553,682 1232,693"/>
+                <Baseline points="1244,725 1247,722 1292,722 1337,719 1382,722 1427,722 1471,722 1516,722 1561,722 1606,722 1650,722 1695,725 1740,722 1785,716"/>
+                <TextEquiv>
+                    <Unicode>puniti dužnosti, ke ima za ci-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1232,788 1296,786 1311,776 1352,788 1466,784 1466,737 1422,740 1413,733 1379,742 1364,731 1309,750 1279,733 1264,746 1232,737"/>
+                <Baseline points="1244,776 1247,773 1292,770 1337,770 1382,770 1427,770 1471,773"/>
+                <TextEquiv>
+                    <Unicode>jelo društvo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1275,835 1774,837 1774,795 1715,799 1694,780 1640,795 1587,778 1558,797 1502,778 1443,793 1275,782"/>
+                <Baseline points="1286,821 1331,823 1376,821 1421,823 1465,823 1510,823 1555,823 1600,823 1644,823 1689,823 1734,823 1779,821"/>
+                <TextEquiv>
+                    <Unicode>Kako da kaže aktualni raz-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1230,888 1774,888 1774,837 1509,833 1473,852 1447,835 1230,835"/>
+                <Baseline points="1241,871 1286,871 1331,871 1376,868 1421,871 1465,871 1510,871 1555,871 1600,874 1644,874 1689,874 1734,874 1779,871"/>
+                <TextEquiv>
+                    <Unicode>vitak u svitu, seljačtvo da znat-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1224,931 1315,948 1781,941 1781,897 1638,880 1224,903"/>
+                <Baseline points="1235,916 1280,922 1325,925 1370,925 1415,925 1459,922 1504,925 1549,925 1594,925 1639,925 1683,925 1728,925 1773,928 1785,928"/>
+                <TextEquiv>
+                    <Unicode>no pridonaša čuvanju klime,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1226,980 1776,994 1776,941 1749,935 1600,952 1570,935 1294,950 1266,933 1226,948"/>
+                <Baseline points="1238,973 1283,973 1328,973 1373,973 1418,976 1462,976 1507,976 1552,973 1597,976 1642,976 1686,976 1731,976 1776,973 1782,976"/>
+                <TextEquiv>
+                    <Unicode>sigurnoj hrani i sigurnoj opskr-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1232,1033 1405,1050 1522,1031 1611,1052 1666,1031 1783,1039 1783,997 1313,1001 1230,984"/>
+                <Baseline points="1244,1026 1289,1024 1334,1026 1379,1026 1424,1024 1468,1026 1513,1024 1558,1026 1603,1026 1647,1026 1692,1026 1737,1026 1782,1026 1785,1026"/>
+                <TextEquiv>
+                    <Unicode>bi hranom kao i tomu, da bu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1232,1092 1783,1090 1783,1043 1760,1039 1232,1048"/>
+                <Baseline points="1244,1077 1289,1077 1334,1074 1379,1077 1424,1077 1468,1077 1513,1077 1558,1077 1603,1074 1647,1077 1692,1077 1737,1077 1782,1077 1785,1077"/>
+                <TextEquiv>
+                    <Unicode>demo autarkni (gospodraski</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1224,1135 1262,1152 1785,1143 1785,1090 1766,1088 1224,1101"/>
+                <Baseline points="1235,1125 1280,1128 1325,1125 1370,1125 1415,1125 1459,1128 1504,1128 1549,1128 1594,1125 1639,1128 1683,1128 1728,1128 1773,1131 1791,1131"/>
+                <TextEquiv>
+                    <Unicode>neodvisni) u energetski pitanji,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1232,1194 1636,1188 1677,1205 1783,1190 1770,1141 1232,1141"/>
+                <Baseline points="1244,1182 1250,1179 1295,1179 1340,1179 1385,1179 1430,1179 1474,1179 1519,1179 1564,1179 1609,1179 1653,1179 1698,1179 1743,1179 1788,1176"/>
+                <TextEquiv>
+                    <Unicode>je rekao stari-novi predsjednik</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1232,1239 1364,1262 1441,1241 1522,1258 1585,1239 1613,1256 1643,1239 1776,1247 1776,1192 1687,1211 1638,1188 1541,1207 1526,1192 1232,1198"/>
+                <Baseline points="1244,1227 1289,1230 1334,1230 1379,1230 1424,1230 1468,1230 1513,1230 1558,1230 1603,1230 1647,1230 1692,1227 1737,1230 1782,1227"/>
+                <TextEquiv>
+                    <Unicode>Gradišćanskoga saveza selja-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1226,1290 1239,1290 1245,1296 1256,1292 1269,1303 1273,1298 1279,1303 1290,1290 1296,1296 1313,1294 1309,1247 1296,1250 1288,1241 1281,1241 1266,1252 1260,1252 1245,1241 1222,1243"/>
+                <Baseline points="1235,1277 1280,1280 1319,1283"/>
+                <TextEquiv>
+                    <Unicode>kov.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844158_tl_17" custom="readingOrder {index:16;}">
+                <Coords points="1621,1292 1645,1298 1692,1290 1704,1296 1721,1292 1736,1300 1751,1292 1785,1298 1783,1241 1755,1252 1728,1239 1715,1247 1696,1247 1679,1237 1640,1243 1630,1256 1619,1256"/>
+                <Baseline points="1630,1280 1674,1280 1719,1283 1764,1283 1791,1283"/>
+                <TextEquiv>
+                    <Unicode>(uredn.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_1" custom="readingOrder {index:7;}">
+            <Coords points="2158,95 2384,95 2384,158 2158,158"/>
+            <TextLine id="r_1_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="2155,140 2180,149 2195,140 2227,151 2252,140 2259,147 2320,142 2346,157 2378,151 2376,96 2327,98 2289,85 2227,89 2214,76 2193,91 2153,79"/>
+                <Baseline points="2167,128 2212,134 2257,134 2301,137 2346,137 2379,137"/>
+                <TextEquiv>
+                    <Unicode>8. IV. 2011.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844155" custom="readingOrder {index:8;}">
+            <Coords points="1823,224 2371,224 2371,1048 1823,1048"/>
+            <TextLine id="tr_1764844155_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1851,270 1885,285 2193,274 2361,289 2361,198 2327,189 2289,187 2265,210 1851,191"/>
+                <Baseline points="1862,262 1907,265 1952,265 1997,265 2042,262 2086,262 2131,262 2176,265 2221,265 2265,268 2310,268 2355,268 2367,268"/>
+                <TextEquiv>
+                    <Unicode>SARAJEVO — Politička kri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1815,327 2359,334 2359,289 2338,283 1815,278"/>
+                <Baseline points="1827,313 1871,316 1916,319 1961,316 2006,316 2051,316 2095,316 2140,316 2185,316 2230,319 2274,319 2319,316 2364,319 2367,316"/>
+                <TextEquiv>
+                    <Unicode>za u BiH nije ni blizu završet-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1819,382 1885,368 2365,391 2365,342 2329,329 2125,342 2023,327 2002,342 1819,323"/>
+                <Baseline points="1830,367 1874,367 1919,367 1964,367 2009,367 2053,367 2098,367 2143,367 2188,367 2233,367 2277,370 2322,370 2367,370 2370,370"/>
+                <TextEquiv>
+                    <Unicode>ka. Punih 6 miseci po provede-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1815,429 2365,434 2365,395 2301,380 1957,391 1883,372 1815,389"/>
+                <Baseline points="1827,414 1871,417 1916,417 1961,417 2006,417 2051,417 2095,414 2140,417 2185,420 2230,417 2274,420 2319,420 2364,423 2370,423"/>
+                <TextEquiv>
+                    <Unicode>ni izbori nima još ni naznaka o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1815,480 2365,484 2365,434 2344,427 2310,446 2212,427 2119,442 2100,427 2076,442 1815,429"/>
+                <Baseline points="1827,465 1871,465 1916,468 1961,468 2006,468 2051,468 2095,468 2140,468 2185,468 2230,468 2274,471 2319,471 2364,471 2370,471"/>
+                <TextEquiv>
+                    <Unicode>tom kada bi mogla biti formi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1815,533 2357,536 2357,489 2323,480 2223,478 2187,497 2053,476 2019,499 1970,480 1815,487"/>
+                <Baseline points="1827,516 1871,519 1916,519 1961,519 2006,519 2051,519 2095,519 2140,519 2185,519 2230,519 2274,522 2319,522 2361,519"/>
+                <TextEquiv>
+                    <Unicode>rana nova državna vlada, od</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1815,589 1951,572 1993,589 2070,572 2136,593 2267,576 2354,589 2354,540 2331,533 1815,536"/>
+                <Baseline points="1827,567 1871,570 1916,570 1961,567 2006,570 2051,570 2095,570 2140,570 2185,570 2230,570 2274,570 2319,573 2358,570"/>
+                <TextEquiv>
+                    <Unicode>nosno Vijeće ministrov. Neiz-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1828,631 2367,642 2367,584 1828,582"/>
+                <Baseline points="1839,617 1883,620 1928,620 1973,617 2018,620 2062,620 2107,620 2152,620 2197,620 2242,620 2286,620 2331,623 2373,626"/>
+                <TextEquiv>
+                    <Unicode>vjesno je i kada bi moglo dojti</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1815,688 2293,680 2359,697 2359,648 2314,633 1815,635"/>
+                <Baseline points="1827,668 1871,671 1916,671 1961,671 2006,671 2051,671 2095,671 2140,671 2185,671 2230,671 2274,671 2319,674 2364,677 2367,674"/>
+                <TextEquiv>
+                    <Unicode>do zatvaranja Ureda visokoga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1821,742 2221,731 2357,746 2357,695 2312,682 2280,697 2233,680 2206,699 2131,682 1821,691"/>
+                <Baseline points="1833,719 1877,722 1922,722 1967,722 2012,722 2056,722 2101,722 2146,722 2191,722 2236,722 2280,725 2325,722 2361,725"/>
+                <TextEquiv>
+                    <Unicode>predstavnika (OHR). Korišće-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1819,793 2361,786 2361,744 2338,737 2108,731 2059,756 2004,733 1819,740"/>
+                <Baseline points="1830,773 1874,773 1919,773 1964,773 2009,773 2053,773 2098,773 2143,773 2188,773 2233,773 2277,776 2322,776 2367,773"/>
+                <TextEquiv>
+                    <Unicode>nje izvršnih, „bonnskih“, ovla-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1821,839 2361,839 2361,786 2346,784 1821,797"/>
+                <Baseline points="1833,821 1877,821 1922,823 1967,823 2012,823 2056,823 2101,823 2146,823 2191,823 2236,823 2280,823 2325,823 2367,826"/>
+                <TextEquiv>
+                    <Unicode>sti visokoga predstavnika Va-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1821,895 2236,886 2289,901 2327,886 2361,901 2348,837 2000,848 1970,831 1932,850 1821,835"/>
+                <Baseline points="1833,871 1877,874 1922,874 1967,874 2012,874 2056,874 2101,874 2146,874 2191,874 2236,874 2280,874 2325,877 2364,877"/>
+                <TextEquiv>
+                    <Unicode>lentina Inzka izazvalo je broj-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_14" custom="readingOrder {index:13;}">
+                <Coords points="1815,935 2365,950 2365,899 2335,890 1968,899 1885,882 1815,901"/>
+                <Baseline points="1827,922 1871,925 1916,925 1961,925 2006,925 2051,925 2095,925 2140,925 2185,925 2230,925 2274,928 2319,928 2364,928 2370,931"/>
+                <TextEquiv>
+                    <Unicode>ne kontroverze i negodovanje,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_15" custom="readingOrder {index:14;}">
+                <Coords points="1821,992 2361,990 2361,948 2308,937 1821,944"/>
+                <Baseline points="1833,979 1877,976 1922,976 1967,976 2012,976 2056,976 2101,976 2146,976 2191,976 2236,976 2280,976 2325,976 2367,979"/>
+                <TextEquiv>
+                    <Unicode>prije svega u dijeli zemlje ve-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844155_tl_16" custom="readingOrder {index:15;}">
+                <Coords points="1815,1035 2361,1046 2346,988 1815,999"/>
+                <Baseline points="1827,1026 1871,1026 1916,1026 1961,1026 2006,1026 2051,1026 2095,1026 2140,1026 2185,1026 2230,1026 2274,1029 2319,1029 2364,1029 2367,1029"/>
+                <TextEquiv>
+                    <Unicode>ćinski naseljenimi Hrvati. (ur.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_4" custom="readingOrder {index:9;}">
+            <Coords points="1843,1064 2377,1064 2377,1175 1843,1175"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:10;}">
+            <Coords points="1828,1182 2228,1182 2228,1464 1828,1464"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844156" custom="readingOrder {index:11;}">
+            <Coords points="634,1504 1191,1504 1191,2159 634,2159"/>
+            <TextLine id="tr_1764844156_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="665,1553 793,1538 858,1558 1179,1547 1179,1500 1158,1494 869,1507 827,1490 790,1511 750,1479 665,1500"/>
+                <Baseline points="677,1531 722,1531 767,1534 812,1534 856,1534 901,1534 946,1534 991,1534 1035,1534 1080,1534 1125,1534 1170,1534 1185,1534"/>
+                <TextEquiv>
+                    <Unicode>BEČ — Hrvatski akademski</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="620,1598 1173,1600 1173,1545 620,1549"/>
+                <Baseline points="632,1585 641,1585 686,1585 731,1585 776,1585 821,1585 865,1588 910,1588 955,1585 1000,1588 1044,1588 1089,1588 1134,1585 1179,1582"/>
+                <TextEquiv>
+                    <Unicode>klub HAK je četvrtak, 31. mar-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="627,1660 697,1643 1177,1649 1177,1600 1160,1598 960,1596 903,1615 884,1600 627,1600"/>
+                <Baseline points="638,1636 683,1636 728,1639 773,1636 818,1636 862,1636 907,1636 952,1639 997,1636 1041,1636 1086,1636 1131,1636 1176,1633 1182,1636"/>
+                <TextEquiv>
+                    <Unicode>ca sudjelovao pri odibiranju</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="620,1706 1173,1700 1173,1647 1105,1662 620,1653"/>
+                <Baseline points="632,1686 641,1686 686,1686 731,1689 776,1689 821,1686 865,1686 910,1686 955,1689 1000,1689 1044,1686 1089,1686 1134,1686 1179,1683"/>
+                <TextEquiv>
+                    <Unicode>novoga Saveznoga zastupničt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="627,1751 1179,1757 1179,1706 1160,1700 954,1717 888,1696 854,1717 816,1696 684,1717 627,1706"/>
+                <Baseline points="638,1734 683,1740 728,1740 773,1740 818,1740 862,1737 907,1737 952,1737 997,1737 1041,1737 1086,1740 1131,1737 1176,1737 1185,1737"/>
+                <TextEquiv>
+                    <Unicode>va mladine. Ova organizacija</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="627,1808 1179,1802 1179,1757 1114,1749 629,1751"/>
+                <Baseline points="641,1791 686,1791 731,1791 776,1791 821,1791 865,1791 910,1791 955,1788 1000,1788 1044,1788 1089,1791 1134,1791 1179,1791 1182,1791"/>
+                <TextEquiv>
+                    <Unicode>lobira za mladinu i se zalaže,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="627,1851 1169,1857 1169,1810 1069,1798 627,1810"/>
+                <Baseline points="638,1839 680,1839 725,1842 770,1842 815,1842 859,1839 904,1839 949,1839 994,1839 1038,1839 1083,1839 1128,1839 1173,1836"/>
+                <TextEquiv>
+                    <Unicode>da mladi ljudi budu jače uve-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="627,1902 1184,1904 1186,1853 1167,1849 629,1859"/>
+                <Baseline points="638,1889 650,1889 695,1892 740,1892 785,1892 829,1892 874,1892 919,1889 964,1889 1009,1889 1053,1889 1098,1892 1143,1889 1188,1886"/>
+                <TextEquiv>
+                    <Unicode>zani u političke procese odluči-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="627,1957 1171,1953 1171,1912 1107,1900 982,1917 627,1904"/>
+                <Baseline points="638,1937 683,1940 728,1943 773,1940 818,1940 862,1940 907,1940 952,1943 997,1940 1041,1940 1086,1940 1131,1943 1176,1937"/>
+                <TextEquiv>
+                    <Unicode>vanja. Nadalje ima cilj, da za-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="620,2002 963,2000 1037,2017 1177,2002 1177,1959 1137,1951 620,1959"/>
+                <Baseline points="632,1991 644,1991 689,1994 734,1994 779,1994 823,1994 868,1994 913,1991 958,1994 1003,1991 1047,1991 1092,1991 1137,1991 1182,1988"/>
+                <TextEquiv>
+                    <Unicode>stupa interese mladih pred Na-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="627,2048 1179,2059 1179,2010 1116,2004 1039,2017 1009,2002 982,2019 922,2002 627,2008"/>
+                <Baseline points="638,2042 683,2042 728,2042 773,2042 818,2042 862,2042 907,2042 952,2042 997,2042 1041,2042 1086,2042 1131,2042 1176,2042 1185,2042"/>
+                <TextEquiv>
+                    <Unicode>cionalnim vijećem, Saveznom</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="627,2104 1184,2106 1184,2055 627,2066"/>
+                <Baseline points="638,2092 683,2095 728,2092 773,2095 818,2095 862,2092 907,2095 952,2095 997,2095 1041,2095 1086,2092 1131,2095 1176,2092 1188,2092"/>
+                <TextEquiv>
+                    <Unicode>vladom, europskimi gremiji i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844156_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="623,2157 946,2155 986,2172 1105,2155 1173,2178 1173,2100 1137,2116 623,2112"/>
+                <Baseline points="635,2146 641,2146 686,2146 731,2143 776,2146 821,2143 865,2146 910,2143 955,2146 1000,2143 1044,2146 1089,2146 1134,2146 1179,2143"/>
+                <TextEquiv>
+                    <Unicode>u javnosti. U Saveznom zastup-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844154" custom="readingOrder {index:12;}">
+            <Coords points="1232,1505 1787,1505 1787,2160 1232,2160"/>
+            <TextLine id="tr_1764844154_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1230,1545 1783,1547 1783,1490 1658,1511 1602,1485 1500,1509 1398,1492 1356,1511 1284,1485 1230,1507"/>
+                <Baseline points="1241,1531 1286,1534 1331,1534 1376,1537 1421,1534 1465,1531 1510,1534 1555,1534 1600,1534 1644,1534 1689,1534 1734,1534 1779,1531 1788,1534"/>
+                <TextEquiv>
+                    <Unicode>ničtvu mladih sudjeluje već od</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1232,1596 1783,1606 1783,1549 1232,1547"/>
+                <Baseline points="1244,1585 1250,1582 1295,1585 1340,1585 1385,1585 1430,1585 1474,1585 1519,1585 1564,1585 1609,1585 1653,1585 1698,1585 1743,1585 1788,1579"/>
+                <TextEquiv>
+                    <Unicode>35 austrijskih mladenačnih or-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1235,1655 1785,1647 1785,1606 1730,1598 1235,1604"/>
+                <Baseline points="1247,1639 1250,1639 1295,1636 1340,1636 1385,1636 1430,1636 1474,1636 1519,1636 1564,1633 1609,1636 1653,1636 1698,1636 1743,1636 1788,1630"/>
+                <TextEquiv>
+                    <Unicode>ganizacijov. Udružena su i ze-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1232,1702 1783,1700 1783,1651 1232,1655"/>
+                <Baseline points="1244,1686 1250,1683 1295,1686 1340,1686 1385,1686 1430,1686 1474,1686 1519,1686 1564,1683 1609,1683 1653,1686 1698,1686 1743,1686 1788,1683"/>
+                <TextEquiv>
+                    <Unicode>maljska zastupničtva mladih i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1230,1747 1783,1745 1783,1702 1740,1694 1449,1713 1277,1698 1230,1715"/>
+                <Baseline points="1241,1734 1286,1737 1331,1737 1376,1740 1421,1737 1465,1737 1510,1737 1555,1737 1600,1737 1644,1737 1689,1737 1734,1737 1779,1734 1788,1734"/>
+                <TextEquiv>
+                    <Unicode>mladi zastupniki iz svih šest</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1230,1804 1785,1802 1785,1755 1711,1745 1634,1764 1575,1747 1230,1757"/>
+                <Baseline points="1241,1791 1253,1788 1298,1788 1343,1791 1388,1788 1433,1788 1477,1788 1522,1788 1567,1791 1612,1788 1656,1788 1701,1791 1746,1788 1791,1788"/>
+                <TextEquiv>
+                    <Unicode>priznatih narodnih grup. HAK</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1232,1859 1785,1851 1785,1802 1766,1798 1726,1817 1630,1798 1232,1804"/>
+                <Baseline points="1244,1842 1253,1839 1298,1836 1343,1839 1388,1839 1433,1839 1477,1839 1522,1839 1567,1839 1612,1839 1656,1839 1701,1839 1746,1839 1791,1836"/>
+                <TextEquiv>
+                    <Unicode>je po drugi put sudjelovao pri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1235,1906 1785,1904 1785,1853 1755,1849 1235,1857"/>
+                <Baseline points="1247,1889 1253,1886 1298,1889 1343,1889 1388,1889 1433,1889 1477,1889 1522,1889 1567,1889 1612,1889 1656,1889 1701,1889 1746,1889 1791,1883"/>
+                <TextEquiv>
+                    <Unicode>sjednici Saveznoga zastupničt-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1232,1949 1783,1953 1783,1904 1749,1900 1232,1912"/>
+                <Baseline points="1244,1937 1250,1937 1295,1940 1340,1940 1385,1940 1430,1940 1474,1943 1519,1940 1564,1940 1609,1943 1653,1940 1698,1940 1743,1940 1788,1934"/>
+                <TextEquiv>
+                    <Unicode>va mladih. Kako je nazvistio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="1226,2006 1787,2004 1787,1955 1226,1949"/>
+                <Baseline points="1238,1991 1283,1991 1328,1991 1373,1994 1418,1994 1462,1991 1507,1991 1552,1994 1597,1991 1642,1994 1686,1991 1731,1994 1776,1991 1791,1991"/>
+                <TextEquiv>
+                    <Unicode>David Karall, sada kanu jačati</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="1230,2053 1783,2053 1783,2019 1747,2006 1230,2000"/>
+                <Baseline points="1241,2039 1286,2042 1331,2042 1376,2042 1421,2042 1465,2042 1510,2045 1555,2042 1600,2042 1644,2042 1689,2042 1734,2042 1779,2042 1788,2042"/>
+                <TextEquiv>
+                    <Unicode>suradnju u ovom gremiju kao i</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_12" custom="readingOrder {index:11;}">
+                <Coords points="1224,2104 1785,2100 1785,2051 1224,2059"/>
+                <Baseline points="1235,2092 1250,2092 1295,2092 1340,2092 1385,2092 1430,2092 1474,2092 1519,2092 1564,2095 1609,2095 1653,2092 1698,2092 1743,2092 1788,2089"/>
+                <TextEquiv>
+                    <Unicode>kontakte s drugimi mladena-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844154_tl_13" custom="readingOrder {index:12;}">
+                <Coords points="1230,2168 1783,2163 1783,2102 1230,2104"/>
+                <Baseline points="1241,2143 1286,2143 1331,2143 1376,2146 1421,2143 1465,2143 1510,2143 1555,2143 1600,2143 1644,2143 1689,2143 1734,2143 1779,2146 1788,2149"/>
+                <TextEquiv>
+                    <Unicode>čkimi organizacijami. (uredn.)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844157" custom="readingOrder {index:13;}">
+            <Coords points="1865,1791 2355,1791 2355,2140 1865,2140"/>
+            <TextLine id="tr_1764844157_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1847,1840 2357,1840 2357,1800 2308,1791 1847,1796"/>
+                <Baseline points="1859,1827 1868,1827 1913,1824 1958,1827 2003,1827 2048,1827 2092,1827 2137,1827 2182,1827 2227,1827 2271,1827 2316,1824 2361,1821"/>
+                <TextEquiv>
+                    <Unicode>Impresum: nakladnik, uredničtvo:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844157_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1881,1874 2335,1874 2335,1840 2306,1832 1881,1834"/>
+                <Baseline points="1892,1859 1937,1862 1982,1865 2027,1865 2071,1865 2116,1865 2161,1865 2206,1862 2251,1862 2295,1862 2340,1859"/>
+                <TextEquiv>
+                    <Unicode>Hrvatsko štamparsko društvo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844157_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1851,1921 2365,1915 2365,1870 1942,1885 1851,1870"/>
+                <Baseline points="1862,1907 1877,1907 1922,1901 1967,1904 2012,1904 2056,1901 2101,1904 2146,1901 2191,1901 2236,1901 2280,1901 2325,1898 2370,1898"/>
+                <TextEquiv>
+                    <Unicode>pošt. pretinac 26, 7001 Željezno/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844157_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1887,1944 2323,1951 2323,1908 1887,1910"/>
+                <Baseline points="1898,1940 1943,1940 1988,1940 2033,1940 2077,1940 2122,1940 2167,1940 2212,1940 2257,1937 2301,1937 2328,1940"/>
+                <TextEquiv>
+                    <Unicode>Eisenstadt, ☎ 02682/61470,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844157_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1953,1985 1987,1995 2080,1985 2150,1995 2187,1985 2259,1991 2259,1946 1953,1949"/>
+                <Baseline points="1964,1976 1997,1979 2042,1979 2086,1979 2131,1979 2176,1976 2221,1973 2265,1970"/>
+                <TextEquiv>
+                    <Unicode>fax 02682/61470-9;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844157_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1868,2023 2346,2029 2346,1987 2276,1980 2027,1995 1868,1983"/>
+                <Baseline points="1880,2015 1904,2015 1949,2018 1994,2018 2039,2015 2083,2018 2128,2018 2173,2018 2218,2018 2262,2015 2307,2015 2352,2012"/>
+                <TextEquiv>
+                    <Unicode>e-mail: ured@hrvatskenovine.at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844157_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1876,2063 2331,2063 2331,2029 2308,2023 1876,2025"/>
+                <Baseline points="1889,2053 1934,2053 1979,2053 2024,2053 2068,2053 2113,2053 2158,2053 2203,2053 2248,2053 2292,2053 2337,2048"/>
+                <TextEquiv>
+                    <Unicode>HRVATSKE NOVINE u internetu:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844157_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1889,2104 2329,2102 2329,2061 2308,2059 2125,2072 1889,2063"/>
+                <Baseline points="1901,2092 1931,2092 1976,2092 2021,2092 2065,2092 2110,2092 2155,2092 2200,2092 2245,2092 2289,2089 2334,2089"/>
+                <TextEquiv>
+                    <Unicode>http://www.hrvatskenovine.at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844157_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1889,2168 2335,2168 2335,2102 1889,2104"/>
+                <Baseline points="1901,2134 1937,2131 1982,2131 2027,2131 2071,2131 2116,2131 2161,2131 2206,2131 2251,2128 2295,2128 2340,2128"/>
+                <TextEquiv>
+                    <Unicode>podupirano iz sredstav BKA-a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844173" custom="readingOrder {index:14;}">
+            <Coords points="36,1175 582,1169 582,1598 36,1598"/>
+            <TextLine id="tr_1764844173_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="155,1207 185,1220 574,1213 574,1164 561,1162 468,1175 450,1160 414,1175 380,1160 257,1175 244,1162 210,1175 155,1167"/>
+                <Baseline points="167,1200 211,1200 256,1200 301,1200 346,1200 391,1203 435,1200 480,1200 525,1200 570,1200 579,1200"/>
+                <TextEquiv>
+                    <Unicode>Nuklearna i humanitarna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844173_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="159,1258 249,1256 264,1269 285,1256 397,1256 423,1269 438,1254 574,1256 574,1224 552,1218 533,1228 455,1216 438,1230 419,1211 378,1224 327,1211 306,1224 159,1213"/>
+                <Baseline points="170,1247 176,1244 220,1247 265,1247 310,1247 355,1247 400,1247 444,1247 489,1247 534,1247 579,1244"/>
+                <TextEquiv>
+                    <Unicode>kriza protegnula se na tri</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844173_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="159,1307 574,1303 574,1260 516,1256 474,1273 385,1256 302,1277 283,1260 159,1260"/>
+                <Baseline points="170,1292 176,1292 220,1295 265,1295 310,1295 355,1295 400,1292 444,1292 489,1292 534,1295 579,1289"/>
+                <TextEquiv>
+                    <Unicode>tajedne, a rješenje se još</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844173_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="162,1349 576,1352 576,1309 555,1303 497,1313 474,1298 448,1313 406,1300 293,1318 270,1305 162,1307"/>
+                <Baseline points="173,1337 217,1340 262,1340 307,1340 352,1340 397,1340 441,1340 486,1340 531,1340 576,1337 582,1337"/>
+                <TextEquiv>
+                    <Unicode>uvijek ne nazire budući da</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844173_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="157,1396 227,1409 272,1396 300,1411 329,1392 391,1394 412,1411 463,1390 502,1407 574,1402 576,1354 559,1349 457,1362 416,1347 368,1364 300,1349 272,1362 246,1349 159,1356"/>
+                <Baseline points="170,1388 179,1385 223,1388 268,1388 313,1388 358,1388 403,1388 447,1385 492,1388 537,1385 582,1385"/>
+                <TextEquiv>
+                    <Unicode>radijacija i dalje istječe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844173_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="155,1445 574,1445 574,1405 542,1394 378,1411 342,1396 300,1409 155,1394"/>
+                <Baseline points="167,1433 211,1436 256,1436 301,1433 346,1433 391,1433 435,1433 480,1433 525,1436 570,1430 579,1433"/>
+                <TextEquiv>
+                    <Unicode>iz nuklearke, a tisuće lju-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844173_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="155,1494 574,1496 574,1445 527,1456 493,1443 378,1456 332,1443 155,1445"/>
+                <Baseline points="167,1480 211,1480 256,1480 301,1480 346,1480 391,1480 435,1480 480,1480 525,1480 570,1477 579,1480"/>
+                <TextEquiv>
+                    <Unicode>di bez domov pokušavaju</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844173_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="155,1545 578,1551 578,1494 155,1498"/>
+                <Baseline points="167,1531 179,1531 223,1528 268,1528 313,1528 358,1528 403,1528 447,1528 492,1528 537,1528 582,1528"/>
+                <TextEquiv>
+                    <Unicode>ponovno izgraditi živote.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844173_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="162,1609 574,1609 574,1551 540,1543 510,1558 162,1545"/>
+                <Baseline points="173,1582 217,1585 262,1588 307,1588 352,1588 397,1588 441,1588 486,1588 531,1588 576,1585"/>
+                <TextEquiv>
+                    <Unicode>Subota Puč u nuklarki I</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844173_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="17,1609 47,1611 55,1606 62,1613 79,1611 83,1606 117,1609 117,1541 100,1538 91,1547 74,1543 68,1549 40,1538 36,1543 30,1538 17,1541"/>
+                <Baseline points="29,1588 74,1588 119,1588 122,1588"/>
+                <TextEquiv>
+                    <Unicode>2. IV.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_2" custom="readingOrder {index:15;}">
+            <Coords points="45,1620 580,1620 580,2086 45,2086"/>
+            <TextLine id="r_2_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="159,1662 321,1647 427,1666 576,1658 576,1615 531,1609 159,1609"/>
+                <Baseline points="170,1647 179,1644 223,1644 268,1644 313,1644 358,1644 403,1644 447,1644 492,1644 537,1644 582,1642"/>
+                <TextEquiv>
+                    <Unicode>Zid teško uškodjenoga re-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="155,1715 189,1702 327,1713 578,1702 578,1658 550,1653 512,1666 323,1649 155,1666"/>
+                <Baseline points="167,1689 211,1692 256,1692 301,1692 346,1692 391,1692 435,1692 480,1692 525,1692 570,1689 582,1689"/>
+                <TextEquiv>
+                    <Unicode>aktora u Fukušimi ima 20.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="157,1747 557,1753 574,1751 572,1706 155,1711"/>
+                <Baseline points="167,1734 211,1740 256,1740 301,1737 346,1737 391,1737 435,1737 480,1740 525,1740 570,1740 576,1740"/>
+                <TextEquiv>
+                    <Unicode>centimetrov dužičku puč.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="155,1800 208,1789 298,1804 357,1791 372,1804 580,1800 580,1757 557,1753 363,1764 325,1751 276,1764 242,1751 210,1764 155,1747"/>
+                <Baseline points="167,1785 211,1785 256,1785 301,1785 346,1788 391,1788 435,1785 480,1785 525,1785 570,1785 585,1785"/>
+                <TextEquiv>
+                    <Unicode>Iz nje curi radioaktivna</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="159,1844 576,1842 576,1800 555,1798 470,1808 406,1794 385,1813 359,1791 338,1804 159,1804"/>
+                <Baseline points="170,1827 214,1833 259,1833 304,1833 349,1833 394,1833 438,1833 483,1833 528,1833 573,1833 582,1833"/>
+                <TextEquiv>
+                    <Unicode>voda u morje. Oko 40 km</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="155,1891 289,1900 312,1887 338,1902 374,1887 450,1900 546,1887 578,1900 578,1844 563,1840 504,1853 387,1840 372,1855 202,1842 155,1857"/>
+                <Baseline points="167,1877 179,1877 223,1877 268,1880 313,1877 358,1880 403,1877 447,1877 492,1877 537,1877 582,1874"/>
+                <TextEquiv>
+                    <Unicode>odaljeno od uškodjene nu-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="159,1940 410,1934 429,1951 516,1934 576,1949 576,1891 523,1902 159,1891"/>
+                <Baseline points="170,1922 214,1925 259,1925 304,1925 349,1925 394,1925 438,1925 483,1925 528,1925 573,1928 582,1928"/>
+                <TextEquiv>
+                    <Unicode>klearke je koncentracija</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="155,1995 240,1980 314,1995 414,1980 525,1989 546,1972 574,1985 574,1944 546,1957 504,1934 431,1951 412,1938 249,1946 221,1934 178,1949 155,1936"/>
+                <Baseline points="167,1970 211,1973 256,1973 301,1970 346,1970 391,1970 435,1973 480,1973 525,1973 570,1970 579,1973"/>
+                <TextEquiv>
+                    <Unicode>radioaktivnoga joda u</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="155,2027 210,2042 259,2025 310,2040 372,2027 406,2051 472,2027 540,2036 567,2032 570,1980 155,1993"/>
+                <Baseline points="167,2018 211,2021 256,2018 301,2021 346,2018 391,2018 435,2018 480,2018 525,2018 570,2018"/>
+                <TextEquiv>
+                    <Unicode>morju duplo tako visoka</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="164,2097 576,2104 576,2032 561,2029 472,2027 419,2053 302,2029 164,2042"/>
+                <Baseline points="176,2077 220,2077 265,2077 310,2077 355,2077 400,2077 444,2077 489,2077 534,2077 579,2071"/>
+                <TextEquiv>
+                    <Unicode>Nedilja Puč u nuklarki II</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_2_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="15,2108 28,2106 40,2114 66,2091 76,2097 85,2093 96,2104 108,2104 110,2019 98,2021 96,2014 91,2017 89,2012 62,2029 42,2025 28,2036 17,2036"/>
+                <Baseline points="29,2080 68,2077 113,2077"/>
+                <TextEquiv>
+                    <Unicode>3. IV.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844159" custom="readingOrder {index:16;}">
+            <Coords points="639,1386 1785,1386 1785,1481 639,1481"/>
+            <TextLine id="tr_1764844159_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="633,1492 1779,1492 1779,1398 1698,1381 1220,1415 633,1386"/>
+                <Baseline points="644,1453 689,1462 734,1465 779,1465 823,1468 868,1468 913,1468 958,1468 1003,1468 1047,1468 1092,1465 1137,1465 1182,1462 1227,1465 1271,1468 1316,1468 1361,1468 1406,1465 1450,1468 1495,1465 1540,1465 1585,1465 1630,1465 1674,1468 1719,1465 1764,1462 1782,1453"/>
+                <TextEquiv>
+                    <Unicode>HAK član u Saveznom zastupničtvu mladine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_3" custom="readingOrder {index:17;}">
+            <Coords points="21,2110 593,2110 593,2587 21,2587"/>
+            <TextLine id="r_3_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="155,2157 208,2144 578,2148 578,2102 155,2100"/>
+                <Baseline points="167,2137 179,2134 223,2137 268,2137 313,2137 358,2137 403,2134 447,2137 492,2137 537,2137 582,2131"/>
+                <TextEquiv>
+                    <Unicode>Po tri tajedni u Fukušimi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="155,2204 221,2189 238,2204 393,2191 544,2206 580,2191 580,2155 552,2146 155,2157"/>
+                <Baseline points="167,2182 182,2182 226,2182 271,2182 316,2182 361,2182 406,2182 450,2182 495,2182 540,2182 585,2179"/>
+                <TextEquiv>
+                    <Unicode>ne vidu kraj borbe protiv</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="155,2242 578,2240 578,2197 557,2195 155,2204"/>
+                <Baseline points="167,2227 211,2230 256,2230 301,2230 346,2230 391,2230 435,2230 480,2230 525,2227 570,2227 582,2230"/>
+                <TextEquiv>
+                    <Unicode>najveće nuklearne nesri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="155,2289 578,2289 578,2246 555,2240 155,2242"/>
+                <Baseline points="167,2274 211,2274 256,2274 301,2274 346,2274 391,2277 435,2274 480,2277 525,2277 570,2274 582,2277"/>
+                <TextEquiv>
+                    <Unicode>će. Na betonskom podu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="155,2331 221,2344 255,2331 580,2335 580,2291 536,2297 516,2282 497,2295 431,2284 391,2299 155,2299"/>
+                <Baseline points="167,2322 211,2322 256,2322 301,2322 346,2322 391,2322 435,2322 480,2322 525,2322 570,2322 585,2322"/>
+                <TextEquiv>
+                    <Unicode>elektrane su otkrili puč,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="149,2391 174,2378 576,2378 576,2342 552,2335 227,2344 149,2320"/>
+                <Baseline points="161,2367 179,2367 223,2370 268,2367 313,2370 358,2367 403,2370 447,2370 492,2367 537,2367 582,2364"/>
+                <TextEquiv>
+                    <Unicode>iz ke teče radioaktivna vo-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="159,2425 576,2433 576,2378 425,2393 393,2376 308,2391 159,2382"/>
+                <Baseline points="170,2412 214,2415 259,2415 304,2415 349,2415 394,2415 438,2415 483,2415 528,2415 573,2415 582,2415"/>
+                <TextEquiv>
+                    <Unicode>da u morje. Na području</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="155,2474 578,2474 578,2433 533,2427 319,2437 236,2425 191,2440 155,2429"/>
+                <Baseline points="167,2460 211,2463 256,2460 301,2460 346,2460 391,2460 435,2463 480,2463 525,2463 570,2460 582,2463"/>
+                <TextEquiv>
+                    <Unicode>nuklearke su našli mrtva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="155,2535 268,2516 289,2535 323,2539 357,2520 446,2537 465,2522 489,2529 489,2474 463,2484 408,2471 348,2484 306,2469 268,2480 155,2474"/>
+                <Baseline points="167,2507 211,2510 256,2510 301,2507 346,2507 391,2507 435,2507 480,2507 495,2507"/>
+                <TextEquiv>
+                    <Unicode>tijela dvih djelačev.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="159,2597 582,2601 582,2550 533,2537 489,2531 461,2550 414,2529 395,2542 334,2531 272,2542 253,2522 215,2539 159,2535"/>
+                <Baseline points="170,2570 214,2576 259,2576 304,2576 349,2576 394,2576 438,2576 483,2576 528,2576 573,2573 585,2573"/>
+                <TextEquiv>
+                    <Unicode>Pandiljak Politička drama</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r_3_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="23,2597 34,2597 38,2601 49,2597 53,2601 62,2599 70,2603 83,2595 108,2597 106,2531 94,2531 89,2527 81,2531 74,2527 70,2531 62,2522 42,2524 38,2520 21,2524"/>
+                <Baseline points="35,2573 80,2573 113,2576"/>
+                <TextEquiv>
+                    <Unicode>4. IV.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844172" custom="readingOrder {index:18;}">
+            <Coords points="26,2595 585,2600 588,3056 31,3043"/>
+            <TextLine id="tr_1764844172_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="162,2648 574,2648 574,2599 555,2595 287,2610 162,2599"/>
+                <Baseline points="173,2633 217,2633 262,2633 307,2636 352,2636 397,2636 441,2636 486,2636 531,2633 576,2633 579,2633"/>
+                <TextEquiv>
+                    <Unicode>Predsjednik HDZ-a BiH</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844172_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="159,2692 576,2699 576,2646 561,2644 448,2644 414,2658 332,2641 300,2656 159,2646"/>
+                <Baseline points="170,2680 179,2680 223,2680 268,2680 313,2680 358,2680 403,2680 447,2683 492,2680 537,2680 582,2677"/>
+                <TextEquiv>
+                    <Unicode>Dragan Čović najavio je</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844172_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="159,2741 189,2737 204,2752 236,2737 438,2748 582,2735 584,2697 162,2694"/>
+                <Baseline points="170,2725 185,2728 229,2728 274,2728 319,2728 364,2728 409,2728 453,2728 498,2725 543,2728 588,2722"/>
+                <TextEquiv>
+                    <Unicode>da bi ta stranka i nje sa-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844172_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="159,2790 321,2784 361,2801 389,2784 576,2784 576,2748 550,2739 159,2748"/>
+                <Baseline points="170,2770 214,2776 259,2776 304,2776 349,2776 394,2776 438,2776 483,2773 528,2776 573,2773 582,2773"/>
+                <TextEquiv>
+                    <Unicode>veznice mogli pozvati na</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844172_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="162,2833 576,2839 576,2792 516,2784 387,2786 351,2805 321,2784 255,2799 162,2784"/>
+                <Baseline points="173,2821 179,2821 223,2821 268,2821 313,2821 358,2824 403,2821 447,2821 492,2821 537,2821 582,2818"/>
+                <TextEquiv>
+                    <Unicode>neku vrstu „gradjanskoga</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844172_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="155,2879 264,2890 319,2877 336,2892 353,2879 391,2890 574,2877 574,2837 540,2833 372,2845 155,2835"/>
+                <Baseline points="167,2866 211,2866 256,2869 301,2869 346,2869 391,2869 435,2869 480,2869 525,2869 570,2866 579,2866"/>
+                <TextEquiv>
+                    <Unicode>neposluha“ prema nele-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844172_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="155,2928 210,2939 261,2920 314,2935 574,2924 574,2877 336,2890 321,2879 300,2892 155,2882"/>
+                <Baseline points="167,2916 176,2916 220,2913 265,2913 310,2916 355,2916 400,2916 444,2913 489,2913 534,2913 579,2910"/>
+                <TextEquiv>
+                    <Unicode>galno i neustavno formi-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844172_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="155,2998 572,2984 572,2930 533,2924 155,2932"/>
+                <Baseline points="167,2961 211,2961 256,2961 301,2961 346,2961 391,2964 435,2964 480,2964 525,2961 570,2961 576,2961"/>
+                <TextEquiv>
+                    <Unicode>ranoj vlasti u toj zemlji.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844172_tl_9" custom="readingOrder {index:8;}">
+                <Coords points="164,3054 238,3056 249,3066 266,3060 302,3062 304,3007 285,3005 272,2996 259,2996 253,3003 234,2992 227,2998 221,2994 212,3003 204,2996 166,2990"/>
+                <Baseline points="176,3033 217,3033 262,3033 307,3027"/>
+                <TextEquiv>
+                    <Unicode>Utorak</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844172_tl_10" custom="readingOrder {index:9;}">
+                <Coords points="374,3056 576,3060 574,2996 510,2996 489,2986 450,3005 438,2994 372,2994"/>
+                <Baseline points="385,3027 429,3033 474,3033 519,3033 564,3033 582,3033"/>
+                <TextEquiv>
+                    <Unicode>SAD i Libija</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844172_tl_11" custom="readingOrder {index:10;}">
+                <Coords points="21,3060 45,3056 55,3062 81,3056 91,3066 117,3068 119,3000 91,2998 85,2992 68,3003 60,3003 53,2996 23,3000"/>
+                <Baseline points="35,3036 80,3030 125,3033"/>
+                <TextEquiv>
+                    <Unicode>5. IV.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844163" custom="readingOrder {index:19;}">
+            <Coords points="35,3060 589,3050 589,3432 38,3437"/>
+            <TextLine id="tr_1764844163_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="159,3096 280,3111 572,3105 572,3062 159,3056"/>
+                <Baseline points="170,3089 214,3092 259,3092 304,3092 349,3092 394,3092 438,3092 483,3092 528,3092 573,3089 576,3089"/>
+                <TextEquiv>
+                    <Unicode>Od ponoći niti jedan ame-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844163_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="155,3147 261,3160 402,3139 480,3160 493,3147 580,3151 580,3109 555,3102 155,3113"/>
+                <Baseline points="167,3137 182,3137 226,3137 271,3137 316,3137 361,3137 406,3137 450,3140 495,3137 540,3137 585,3134"/>
+                <TextEquiv>
+                    <Unicode>rički borbeni zrakoplov</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844163_tl_3" custom="readingOrder {index:2;}">
+                <Coords points="162,3207 215,3194 366,3207 391,3192 493,3213 518,3196 574,3204 574,3156 497,3147 162,3158"/>
+                <Baseline points="173,3182 217,3182 262,3185 307,3182 352,3185 397,3182 441,3182 486,3182 531,3185 576,3182"/>
+                <TextEquiv>
+                    <Unicode>nije poletio, objavio je sat-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844163_tl_4" custom="readingOrder {index:3;}">
+                <Coords points="162,3243 495,3253 576,3238 576,3204 540,3192 499,3211 455,3194 366,3207 191,3194 162,3207"/>
+                <Baseline points="173,3230 217,3230 262,3230 307,3230 352,3230 397,3230 441,3233 486,3233 531,3233 576,3230 582,3230"/>
+                <TextEquiv>
+                    <Unicode>nik Darryn James, glas-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844163_tl_5" custom="readingOrder {index:4;}">
+                <Coords points="155,3290 348,3298 389,3283 546,3298 578,3287 576,3241 268,3253 153,3238"/>
+                <Baseline points="167,3275 211,3275 256,3275 301,3278 346,3278 391,3278 435,3278 480,3278 525,3278 570,3278 582,3278"/>
+                <TextEquiv>
+                    <Unicode>nogovornik Pentagona ki</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844163_tl_6" custom="readingOrder {index:5;}">
+                <Coords points="164,3332 531,3343 576,3336 574,3287 408,3300 387,3283 329,3298 270,3296 253,3281 162,3296"/>
+                <Baseline points="176,3322 179,3319 223,3322 268,3322 313,3322 358,3325 403,3325 447,3325 492,3322 537,3325 582,3319"/>
+                <TextEquiv>
+                    <Unicode>veli da su zrakoplovi pri-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844163_tl_7" custom="readingOrder {index:6;}">
+                <Coords points="162,3394 230,3377 576,3381 574,3338 552,3349 514,3332 442,3347 419,3334 395,3345 261,3334 230,3347 159,3334"/>
+                <Baseline points="173,3370 217,3370 262,3370 307,3370 352,3370 397,3370 441,3370 486,3370 531,3370 576,3370 582,3373"/>
+                <TextEquiv>
+                    <Unicode>pravni za intervenciju u</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844163_tl_8" custom="readingOrder {index:7;}">
+                <Coords points="132,3447 196,3430 283,3449 408,3434 431,3449 461,3423 491,3445 582,3440 582,3381 555,3374 529,3394 404,3379 317,3392 264,3377 176,3387 134,3368"/>
+                <Baseline points="146,3421 191,3418 235,3418 280,3418 325,3415 370,3415 414,3415 459,3415 504,3418 549,3418 588,3421"/>
+                <TextEquiv>
+                    <Unicode>slučaju da to NATO zatraži.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="tr_1764844165" custom="readingOrder {index:20;}">
+            <Coords points="641,3304 2359,3304 2359,3399 641,3399"/>
+            <TextLine id="tr_1764844165_tl_1" custom="readingOrder {index:0;}">
+                <Coords points="633,3358 1734,3383 2338,3340 2338,3298 633,3309"/>
+                <Baseline points="644,3346 647,3346 692,3343 737,3343 782,3343 826,3343 871,3343 916,3343 961,3346 1006,3343 1050,3340 1095,3343 1140,3343 1185,3343 1230,3343 1274,3343 1319,3343 1364,3343 1409,3343 1453,3343 1498,3340 1543,3343 1588,3343 1633,3343 1677,3343 1722,3343 1767,3343 1812,3343 1856,3343 1901,3340 1925,3340 1943,3340 1988,3343 2033,3340 2077,3340 2122,3340 2167,3340 2212,3337 2236,3337 2254,3337 2298,3334 2343,3334"/>
+                <TextEquiv>
+                    <Unicode>„Hrvat prodava platno“- jedna od slik u izložbi „400 godina Hrvata u Beču“ u galeriji Matice hrvatske</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tr_1764844165_tl_2" custom="readingOrder {index:1;}">
+                <Coords points="633,3396 714,3396 727,3402 795,3402 805,3396 822,3402 822,3353 767,3364 750,3355 722,3364 693,3353 676,3362 657,3358 633,3366"/>
+                <Baseline points="644,3388 689,3388 734,3385 779,3388 823,3388 826,3388"/>
+                <TextEquiv>
+                    <Unicode>u Zagrebu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
