@@ -3,7 +3,7 @@
     <docId>12715615</docId>
     <title>Glasilo</title>
     <uploadTimestamp>1764944043397</uploadTimestamp>
-    <uploader>marija.djokic795@gmail.com</uploader>
+    <uploader>m.djokic@example.com</uploader>
     <uploaderId>246057</uploaderId>
     <nrOfPages>3</nrOfPages>
     <pageId>107683805</pageId>
@@ -17,7 +17,7 @@
         <colList>
             <colId>2305708</colId>
             <colName>Final Testing Burgenland Croatian</colName>
-            <description>created by marija.djokic795@gmail.com</description>
+            <description>created by m.djokic@example.com</description>
             <crowdsourcing>false</crowdsourcing>
             <elearning>false</elearning>
             <nrOfDocuments>0</nrOfDocuments>
