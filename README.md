@@ -22,7 +22,7 @@ By source:
 | Hrvatske Novine | 6 | 0.88% | 0.0293 | 96.16% |
 | ZIGH | 3 | 0.95% | 0.0492 | 92.48% |
 
-Per-page results are in the `cer_results_Burgenland_Croatian_Typewritten_2010-2019.csv` files described below; the same folders also hold results for the three comparison models.
+Per-page results are in the `cer_results_Burgenland_Croatian_Typewritten_2010-2019.csv` files, one inside each `page N/` subfolder listed in [Folder structure](#folder-structure) (e.g. `Glasilo/page 2/cer_results_Burgenland_Croatian_Typewritten_2010-2019.csv`); see [CSV naming convention](#csv-naming-convention) for the full file list. The same `page N/` folders also hold results for the three comparison models.
 
 ### Comparison with the other models
 
