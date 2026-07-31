@@ -43,7 +43,6 @@ The Burgenland Croatian model consistently outperforms the three general-purpose
 - **`Hrvatske Novine/`** — Per-issue, per-page CER evaluation results for *Hrvatske Novine*. Organized as `DD.MM.YYYY/page N/`, one CSV per model per page.
 - **`ZIGH/`** — Per-page CER evaluation results for the *ZIGH*. Each `page N/` subfolder holds one CSV per model tested on that page.
 - **`export/`** — Raw Transkribus exports used as the source material for evaluation, one subfolder per document (named by Transkribus document ID), each containing the original PDF, plain-text transcription, and full page/metadata export (`metadata.xml`, `mets.xml`, `page/`).
-- **`Final Testing Burgenland Croatian.csv`** — Source document metadata for the three evaluated documents (Transkribus document ID, title, page count, upload date, and view/thumbnail links).
 
 ## CSV naming convention
 
