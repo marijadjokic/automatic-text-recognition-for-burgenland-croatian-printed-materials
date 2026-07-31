@@ -2,7 +2,7 @@
 
 Repository: https://github.com/marijadjokic/automatic-text-recognition-for-burgenland-croatian-printed-materials
 
-This folder contains the evaluation results of the model **["Burgenland Croatian Typewritten 2010-2019"](https://www.transkribus.org/models/burgenland-croatian-typewritten-2010-2019)** available on the [Transkribus](https://transkribus.eu) platform, benchmarked against three other OCR/HTR models ([Czech Slovak Model Print M1](https://www.transkribus.org/models/czech-slovak-print-model-m1), [Text Titan I](https://www.transkribus.org/models/the-text-titan-i-super-model), [Transkribus Print M1](https://www.transkribus.org/models/transkribus-print-multi-language-dutch-german-english-finnish-french-swedish-etc)) on scanned Burgenland Croatian print sources.
+This folder contains the evaluation results of the model **["Burgenland Croatian Typewritten 2010-2019"](https://www.transkribus.org/models/burgenland-croatian-typewritten-2010-2019)** available on the [Transkribus](https://transkribus.eu) platform, benchmarked against three other OCR/HTR models ([Czech Slovak Model Print M1](https://www.transkribus.org/models/czech-slovak-print-model-m1), [Text Titan I](https://www.transkribus.org/models/the-text-titan-i-super-model), [Transkribus Print M1](https://www.transkribus.org/models/transkribus-print-multi-language-dutch-german-english-finnish-french-swedish-etc)) on scanned Burgenland Croatian print sources ([Glasilo](https://hkd.at/), [Hrvatske Novine](https://hrvatskenovine.at/), [ZIGH](https://www.zigh.at/)).
 
 ## Folder structure
 
