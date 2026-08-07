@@ -63,7 +63,7 @@ Bold values indicate the lowest CER for each evaluated page.
 |  |  | Transkribus Print M1 | 0.87 / 0.91 / 1.27 | 11 s 265 ms / 12 s 306 ms / 11 s 928 ms |
 |  |  | Czech Slovak Model Print M1 | 3.66 / 3.67 / 5.54 | 12 s 986 ms / 9 s 869 ms / 13 s 235 ms |
 
-## Comparison with Croatian OCR tools
+## Comparison with OCR tools configured for Croatian
 
 Bold values indicate the lowest CER for each evaluated page.
 
